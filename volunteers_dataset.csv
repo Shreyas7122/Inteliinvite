@@ -1,0 +1,1001 @@
+Volunteer_ID,Age,Latitude,Longitude,Distance_KM,Membership_Status,Interests,Past_Events,Attendance_Rate,Physical_Score,Likelihood_to_Attend
+VOL_1000,66,40.1177,-80.0034,35.85,Non-member,Disaster Response|Environment|Peace,8,0.79,7,0.65
+VOL_1001,39,40.3634,-79.5978,45.01,Subscriber,Environment|Health,17,0.1,8,0.73
+VOL_1002,22,40.5218,-79.6152,43.21,Member,Disaster Response|Environment|Education,2,0.41,8,0.8
+VOL_1003,41,40.3735,-80.2989,34.45,Subscriber,Youth|Health,6,0.61,6,0.23
+VOL_1004,48,40.1453,-80.3135,48.13,Member,Youth|Environment,27,0.16,3,0.44
+VOL_1005,24,40.8993,-80.0945,52.07,Subscriber,Disaster Response,8,0.74,6,0.14
+VOL_1006,69,40.1295,-79.7766,42.24,Member,Health|Youth|Education,39,0.36,8,0.22
+VOL_1007,40,40.8933,-79.6289,64.69,Subscriber,Disaster Response|Health,36,0.59,9,0.3
+VOL_1008,42,40.4831,-79.6364,40.18,Non-member,Education,14,0.85,8,0.33
+VOL_1009,41,40.3682,-79.919,11.72,Subscriber,Education|Environment,34,0.59,5,0.65
+VOL_1010,28,40.6714,-80.1163,28.9,Member,Health|Environment|Education,29,0.15,2,0.64
+VOL_1011,57,40.6203,-80.2675,36.15,Member,Health|Disaster Response|Environment,30,0.82,8,1.0
+VOL_1012,36,40.236,-79.6158,47.92,Subscriber,Environment|Health,27,0.77,10,0.85
+VOL_1013,25,40.0872,-79.723,49.56,Member,Education|Environment|Disaster Response,36,0.58,6,0.58
+VOL_1014,64,40.8319,-80.123,45.67,Member,Health|Environment,45,0.13,2,0.41
+VOL_1015,66,40.6701,-79.8105,32.75,Member,Youth,41,0.25,4,0.24
+VOL_1016,47,40.5159,-80.2253,26.8,Member,Youth|Environment,5,0.84,8,1.0
+VOL_1017,34,40.4906,-79.5247,52.6,Subscriber,Health|Youth,17,0.92,8,0.35
+VOL_1018,59,40.1405,-80.1833,39.28,Member,Peace|Health|Disaster Response,14,0.75,7,0.4
+VOL_1019,58,40.1093,-79.6559,52.69,Member,Peace,4,0.42,5,0.05
+VOL_1020,50,40.9317,-80.4453,73.89,Subscriber,Health,0,0.3,4,0.07
+VOL_1021,68,40.3657,-79.5788,47.04,Non-member,Environment|Education|Disaster Response,15,0.87,1,0.4
+VOL_1022,49,40.9157,-79.6471,65.42,Non-member,Peace|Disaster Response|Environment,2,0.58,5,0.6
+VOL_1023,34,40.3264,-80.3485,41.14,Non-member,Education|Peace,47,0.34,8,0.44
+VOL_1024,41,39.9409,-79.9604,55.6,Non-member,Peace,34,0.47,5,0.17
+VOL_1025,44,40.216,-79.994,24.93,Non-member,Disaster Response|Youth,28,0.43,3,0.39
+VOL_1026,38,40.1133,-79.5799,58.75,Subscriber,Disaster Response|Youth,34,0.7,8,0.3
+VOL_1027,26,40.5853,-79.8607,21.98,Subscriber,Peace|Education|Youth,6,0.65,10,0.59
+VOL_1028,50,40.3942,-80.3037,34.55,Non-member,Education|Youth,48,0.75,6,0.29
+VOL_1029,23,39.9648,-80.0101,52.84,Member,Youth|Health|Environment,27,0.87,6,0.51
+VOL_1030,62,40.5426,-79.6477,40.28,Subscriber,Peace|Health|Environment,30,0.64,9,0.78
+VOL_1031,22,40.0485,-79.5684,64.39,Subscriber,Education|Health,32,0.1,4,0.13
+VOL_1032,19,40.4341,-80.1777,20.19,Non-member,Environment|Health|Disaster Response,34,0.59,4,0.74
+VOL_1033,57,40.6796,-79.738,39.02,Subscriber,Disaster Response|Education|Health,49,0.68,2,0.24
+VOL_1034,67,40.4835,-79.9715,5.48,Member,Youth|Health|Education,14,0.15,2,0.26
+VOL_1035,51,40.6586,-80.3697,48.03,Member,Environment|Youth,38,0.66,4,0.55
+VOL_1036,23,40.6897,-80.1104,30.43,Member,Environment|Health,8,0.72,3,0.62
+VOL_1037,18,40.0136,-80.3519,61.71,Non-member,Disaster Response|Youth|Environment,42,0.75,7,0.45
+VOL_1038,18,40.5454,-80.4378,50.41,Subscriber,Disaster Response,42,0.58,7,0.07
+VOL_1039,22,40.3083,-80.189,25.98,Non-member,Youth,11,0.3,5,0.31
+VOL_1040,23,40.3955,-79.7618,26.47,Non-member,Education,32,0.48,3,0.38
+VOL_1041,64,40.9221,-79.5189,75.24,Subscriber,Disaster Response|Education|Youth,50,0.44,3,0.0
+VOL_1042,38,40.6398,-79.9664,22.35,Member,Health,22,0.11,8,0.61
+VOL_1043,53,40.5541,-79.9531,13.47,Non-member,Education|Environment|Disaster Response,43,0.2,6,0.65
+VOL_1044,73,40.1415,-80.1368,36.7,Member,Peace|Disaster Response|Environment,5,0.36,3,0.5
+VOL_1045,22,40.4134,-79.6106,42.88,Non-member,Education|Peace,22,0.3,8,0.36
+VOL_1046,40,40.2295,-80.0743,25.0,Non-member,Environment,6,0.48,8,0.97
+VOL_1047,35,40.3762,-79.7858,24.4,Non-member,Health|Education|Environment,29,0.75,1,0.62
+VOL_1048,39,40.7824,-79.7239,48.49,Non-member,Youth,12,0.35,10,0.39
+VOL_1049,37,40.4827,-79.5391,50.92,Non-member,Education|Disaster Response|Environment,9,0.54,2,0.59
+VOL_1050,44,40.5799,-80.0796,18.04,Non-member,Environment,11,0.26,1,0.79
+VOL_1051,75,40.6288,-80.4681,56.42,Non-member,Youth|Environment|Disaster Response,1,0.49,6,0.42
+VOL_1052,72,40.6187,-80.3601,45.0,Subscriber,Disaster Response|Education,9,0.73,7,0.02
+VOL_1053,21,40.613,-79.7799,30.68,Subscriber,Education|Peace|Youth,45,0.52,2,0.38
+VOL_1054,55,40.5474,-79.7019,34.72,Member,Education|Health|Environment,7,0.63,6,0.66
+VOL_1055,42,40.4344,-79.7163,31.05,Member,Environment|Peace|Youth,13,0.33,3,0.76
+VOL_1056,48,40.0298,-79.8185,49.67,Non-member,Education|Peace|Health,17,0.89,3,0.09
+VOL_1057,58,40.6156,-79.9418,20.33,Member,Environment,24,0.86,7,0.75
+VOL_1058,35,40.5995,-80.1033,21.3,Member,Peace|Health,9,0.47,10,0.61
+VOL_1059,67,40.4457,-79.8676,14.25,Member,Health|Environment,19,0.58,3,0.69
+VOL_1060,23,40.7269,-79.6031,53.95,Subscriber,Youth|Health,32,0.84,2,0.03
+VOL_1061,60,39.9668,-79.695,62.31,Non-member,Youth|Disaster Response,48,0.16,4,0.0
+VOL_1062,34,40.6241,-80.4285,52.16,Subscriber,Environment|Youth|Peace,38,0.92,2,0.45
+VOL_1063,43,40.6968,-80.3565,49.1,Member,Education|Disaster Response|Health,40,0.55,1,0.13
+VOL_1064,74,40.4963,-79.5715,47.51,Subscriber,Education,15,0.79,2,0.08
+VOL_1065,46,40.1772,-80.4758,60.77,Subscriber,Youth,48,0.68,10,0.31
+VOL_1066,69,40.1699,-80.2731,43.01,Subscriber,Education|Health,30,0.75,4,0.0
+VOL_1067,35,40.2494,-79.8978,23.85,Non-member,Disaster Response|Health,14,0.21,10,0.58
+VOL_1068,71,40.8567,-79.7382,54.33,Subscriber,Peace|Environment|Disaster Response,44,0.28,6,0.35
+VOL_1069,56,40.4718,-79.6428,39.35,Subscriber,Disaster Response|Peace,22,0.72,6,0.32
+VOL_1070,49,40.1856,-80.33,46.66,Subscriber,Youth|Health|Peace,50,0.16,2,0.02
+VOL_1071,52,40.1653,-80.3116,46.5,Member,Peace,28,0.94,5,0.09
+VOL_1072,61,40.61,-80.157,25.95,Subscriber,Peace|Environment,5,0.54,8,0.89
+VOL_1073,47,40.3147,-80.2515,31.63,Non-member,Youth|Health,35,0.2,7,0.27
+VOL_1074,50,40.4656,-79.5609,48.37,Non-member,Education|Health,29,0.59,8,0.45
+VOL_1075,20,40.066,-79.7038,52.73,Subscriber,Environment|Peace,18,0.15,5,0.53
+VOL_1076,68,40.3839,-79.5245,52.7,Subscriber,Education|Health,31,0.49,8,0.34
+VOL_1077,55,40.1451,-79.6954,46.79,Non-member,Education|Peace|Health,20,0.59,6,0.02
+VOL_1078,26,40.4551,-80.2222,25.17,Non-member,Disaster Response,30,0.83,9,0.62
+VOL_1079,44,40.4121,-79.7845,23.68,Non-member,Education|Disaster Response,38,0.57,8,0.56
+VOL_1080,62,40.3657,-79.6553,38.71,Non-member,Disaster Response|Peace,10,0.45,1,0.24
+VOL_1081,36,40.5672,-80.4332,50.53,Member,Peace|Environment,12,0.42,10,0.76
+VOL_1082,68,40.5406,-80.2385,29.12,Non-member,Health|Environment,11,0.64,3,0.62
+VOL_1083,31,40.6513,-80.1344,27.99,Non-member,Health,34,0.72,5,0.36
+VOL_1084,59,40.807,-80.1445,43.89,Subscriber,Peace|Education,39,0.87,5,0.01
+VOL_1085,45,40.818,-80.1317,44.52,Non-member,Education|Environment,15,0.69,3,0.43
+VOL_1086,26,40.1267,-80.3417,51.84,Non-member,Health|Youth,13,0.45,4,0.03
+VOL_1087,21,40.1959,-80.0856,28.92,Subscriber,Peace|Youth,7,0.7,8,0.6
+VOL_1088,65,40.1724,-80.3968,53.54,Member,Disaster Response|Youth,33,0.58,10,0.38
+VOL_1089,68,40.0421,-79.5728,64.52,Subscriber,Youth|Peace,13,0.24,4,0.02
+VOL_1090,26,40.8993,-80.2862,60.26,Member,Environment,20,0.76,6,0.56
+VOL_1091,54,40.2055,-79.8755,29.32,Non-member,Disaster Response,36,0.62,7,0.25
+VOL_1092,75,40.7702,-79.8705,39.14,Subscriber,Health|Youth|Peace,44,0.64,9,0.46
+VOL_1093,20,40.9093,-80.2717,60.37,Non-member,Peace|Youth|Education,39,0.53,1,0.13
+VOL_1094,65,40.7712,-79.8176,41.69,Member,Environment,46,0.13,1,0.34
+VOL_1095,60,40.2425,-80.4547,55.47,Non-member,Peace,35,0.86,8,0.22
+VOL_1096,24,40.5255,-79.6499,39.54,Non-member,Youth|Peace|Disaster Response,9,0.78,4,0.22
+VOL_1097,70,40.2238,-80.2118,33.96,Member,Peace|Environment|Health,33,0.44,8,0.84
+VOL_1098,43,40.447,-79.6937,33.55,Subscriber,Environment,12,0.39,9,0.91
+VOL_1099,75,40.8405,-79.5511,66.4,Member,Environment|Youth|Disaster Response,4,0.32,3,0.39
+VOL_1100,58,40.0897,-80.257,48.55,Member,Peace|Environment,18,0.33,8,0.8
+VOL_1101,31,40.0789,-79.8212,44.59,Non-member,Disaster Response|Environment,16,0.83,6,0.5
+VOL_1102,65,40.6327,-79.4968,59.37,Member,Education,28,0.88,6,0.0
+VOL_1103,30,40.111,-79.6564,52.53,Subscriber,Disaster Response|Peace|Education,20,0.32,4,0.18
+VOL_1104,64,40.3662,-79.4996,55.71,Non-member,Education|Disaster Response,20,0.76,4,0.0
+VOL_1105,57,40.5539,-80.4077,47.4,Member,Peace|Youth|Education,36,0.87,9,0.38
+VOL_1106,52,40.5758,-80.3502,42.1,Subscriber,Environment|Disaster Response|Education,50,0.92,7,0.46
+VOL_1107,58,40.8318,-80.4256,64.5,Member,Peace,19,0.35,8,0.39
+VOL_1108,39,40.8109,-79.4972,68.95,Member,Peace|Health,20,0.85,1,0.19
+VOL_1109,60,40.9326,-80.4818,76.75,Member,Health|Education|Environment,32,0.42,6,0.31
+VOL_1110,46,40.2203,-79.5387,56.33,Non-member,Environment|Peace,31,0.47,1,0.42
+VOL_1111,55,40.2712,-79.6632,41.44,Member,Disaster Response|Education,27,0.17,2,0.06
+VOL_1112,66,40.6511,-80.1547,29.27,Subscriber,Education,34,0.71,8,0.45
+VOL_1113,60,40.4499,-79.6436,39.12,Subscriber,Youth|Environment,1,0.19,6,0.69
+VOL_1114,31,40.1052,-79.8677,39.86,Non-member,Youth|Education,23,0.47,8,0.65
+VOL_1115,74,40.4277,-79.9949,1.43,Non-member,Peace|Education,2,0.82,6,0.23
+VOL_1116,51,40.291,-80.3228,39.91,Member,Youth,47,0.76,8,0.6
+VOL_1117,43,40.8126,-80.0176,41.37,Subscriber,Health|Disaster Response|Education,6,0.22,8,0.43
+VOL_1118,69,39.9643,-79.6999,62.25,Member,Education|Disaster Response,29,0.73,4,0.0
+VOL_1119,37,40.2739,-80.1314,23.85,Non-member,Youth|Peace,14,0.82,10,0.51
+VOL_1120,54,40.5147,-79.9896,8.25,Non-member,Health,2,0.3,6,0.26
+VOL_1121,28,40.4807,-79.6068,43.42,Subscriber,Environment,50,0.61,4,0.49
+VOL_1122,22,40.4518,-79.5425,50.34,Member,Environment,36,0.62,9,0.71
+VOL_1123,41,40.7104,-79.6273,50.71,Subscriber,Health|Education,1,0.74,10,0.47
+VOL_1124,60,40.314,-80.2057,27.2,Non-member,Environment|Peace,21,0.36,3,0.6
+VOL_1125,73,40.3706,-79.949,9.35,Non-member,Disaster Response,15,0.29,4,0.12
+VOL_1126,48,40.9001,-79.8837,52.5,Member,Youth|Education|Peace,47,0.47,1,0.14
+VOL_1127,43,40.9354,-79.5439,74.39,Non-member,Youth|Health|Disaster Response,12,0.77,3,0.08
+VOL_1128,45,40.4883,-79.6586,37.81,Non-member,Youth|Education,29,0.17,7,0.21
+VOL_1129,60,40.336,-79.5271,53.32,Subscriber,Youth|Health,11,0.12,8,0.21
+VOL_1130,44,40.6965,-80.492,61.96,Subscriber,Health,3,0.21,8,0.36
+VOL_1131,54,40.5973,-80.4122,49.38,Member,Health,41,0.72,3,0.13
+VOL_1132,18,40.4898,-79.9695,6.19,Non-member,Youth|Peace,22,0.72,5,0.31
+VOL_1133,18,40.5302,-79.6942,34.93,Subscriber,Youth|Peace|Health,3,0.57,4,0.25
+VOL_1134,42,40.7648,-80.1789,41.33,Subscriber,Youth|Education|Peace,31,0.65,7,0.17
+VOL_1135,26,40.793,-80.2345,47.24,Subscriber,Education|Disaster Response|Environment,37,0.56,3,0.57
+VOL_1136,22,40.9298,-79.9335,54.74,Member,Education|Health|Environment,23,0.79,5,0.41
+VOL_1137,27,40.4766,-80.0052,4.13,Non-member,Disaster Response,14,0.45,7,0.24
+VOL_1138,38,40.2468,-80.3295,42.82,Non-member,Disaster Response|Health|Environment,10,0.66,1,0.49
+VOL_1139,28,40.1538,-80.0049,31.85,Subscriber,Health|Environment,38,0.37,5,0.78
+VOL_1140,21,40.0659,-80.0479,41.99,Subscriber,Peace|Education|Environment,16,0.11,3,0.57
+VOL_1141,64,40.0897,-79.7969,44.78,Subscriber,Education,45,0.82,2,0.0
+VOL_1142,35,40.654,-79.8106,31.37,Member,Peace|Health|Youth,24,0.1,1,0.38
+VOL_1143,57,40.7462,-79.6481,51.39,Subscriber,Youth|Environment,37,0.4,5,0.4
+VOL_1144,68,40.5184,-79.8579,17.58,Subscriber,Youth|Environment,38,0.63,4,0.52
+VOL_1145,26,40.066,-79.8641,44.08,Member,Health|Environment,45,0.27,1,0.45
+VOL_1146,18,40.0404,-79.8594,46.93,Non-member,Youth,9,0.59,2,0.06
+VOL_1147,24,40.7992,-79.5568,62.93,Member,Environment|Disaster Response|Peace,42,0.45,4,0.49
+VOL_1148,68,40.0686,-79.5508,64.39,Subscriber,Environment|Peace|Education,5,0.69,10,0.78
+VOL_1149,47,40.4263,-80.0029,1.76,Non-member,Peace|Disaster Response,40,0.66,7,0.36
+VOL_1150,54,40.0306,-80.2804,55.39,Subscriber,Health,6,0.81,6,0.06
+VOL_1151,25,40.5443,-80.0375,12.4,Non-member,Education|Environment|Health,32,0.51,1,0.7
+VOL_1152,29,40.2992,-80.3814,45.58,Subscriber,Environment,25,0.13,9,0.76
+VOL_1153,63,40.5373,-80.1777,22.86,Non-member,Education|Health,37,0.9,3,0.16
+VOL_1154,31,40.6108,-79.6188,45.92,Subscriber,Youth,26,0.84,6,0.19
+VOL_1155,20,39.9659,-79.7976,57.1,Subscriber,Youth,50,0.76,10,0.49
+VOL_1156,22,40.103,-79.9409,37.97,Member,Peace,3,0.32,9,0.59
+VOL_1157,29,40.7283,-80.1883,38.41,Non-member,Youth|Environment,29,0.18,1,0.78
+VOL_1158,35,40.5636,-79.8829,18.54,Subscriber,Environment|Education,49,0.54,5,0.79
+VOL_1159,50,40.5409,-79.8095,23.5,Member,Disaster Response|Education,5,0.64,3,0.32
+VOL_1160,49,40.4759,-80.3241,36.64,Subscriber,Peace|Environment|Education,39,0.46,5,0.6
+VOL_1161,26,40.6708,-80.3035,42.65,Member,Peace,38,0.8,1,0.01
+VOL_1162,61,40.9253,-79.4962,77.27,Subscriber,Health,3,0.66,7,0.08
+VOL_1163,22,40.0988,-79.9626,38.12,Member,Education,7,0.82,8,0.6
+VOL_1164,28,40.8929,-79.744,57.47,Non-member,Peace|Health,5,0.17,5,0.07
+VOL_1165,69,39.9496,-79.903,55.47,Member,Environment,43,0.16,1,0.44
+VOL_1166,66,40.618,-80.0029,19.71,Subscriber,Education|Environment,26,0.8,9,0.88
+VOL_1167,39,40.6763,-80.3568,47.85,Non-member,Disaster Response|Youth|Health,43,0.54,10,0.47
+VOL_1168,28,40.6015,-79.558,51.79,Subscriber,Youth|Disaster Response|Health,32,0.54,5,0.11
+VOL_1169,49,40.2287,-80.2572,37.34,Non-member,Youth|Environment,25,0.44,9,1.0
+VOL_1170,74,40.223,-79.6106,49.12,Member,Disaster Response,47,0.83,3,0.0
+VOL_1171,25,40.6742,-79.6273,48.44,Member,Education|Environment,47,0.58,1,0.49
+VOL_1172,71,40.8575,-79.9702,46.36,Non-member,Education|Disaster Response|Environment,25,0.28,9,0.75
+VOL_1173,52,40.0411,-79.7237,53.66,Non-member,Education|Health,44,0.33,10,0.37
+VOL_1174,48,40.0676,-79.7163,51.74,Member,Education|Peace,25,0.28,5,0.01
+VOL_1175,55,40.6275,-80.1114,24.39,Non-member,Disaster Response,40,0.67,1,0.35
+VOL_1176,21,40.6975,-80.2755,42.15,Member,Environment|Education,50,0.5,3,0.59
+VOL_1177,53,40.7111,-79.9827,30.06,Subscriber,Peace|Education,1,0.38,4,0.23
+VOL_1178,53,40.6369,-79.6895,40.39,Member,Health|Youth|Education,48,0.33,7,0.17
+VOL_1179,72,40.2333,-80.1746,30.38,Non-member,Environment|Peace,35,0.57,8,0.85
+VOL_1180,68,40.1979,-79.5735,54.07,Member,Education|Peace|Health,47,0.24,2,0.0
+VOL_1181,26,39.9979,-79.7797,54.68,Subscriber,Health,10,0.31,3,0.12
+VOL_1182,53,40.3011,-80.0885,18.59,Member,Disaster Response|Peace|Education,43,0.82,5,0.33
+VOL_1183,19,40.1185,-80.4534,62.11,Subscriber,Disaster Response,39,0.33,1,0.06
+VOL_1184,25,40.7971,-80.4281,62.19,Member,Environment|Disaster Response|Peace,31,0.33,9,0.78
+VOL_1185,68,40.3717,-79.9933,7.65,Non-member,Education|Peace|Youth,32,0.9,2,0.18
+VOL_1186,64,40.7256,-79.9897,31.64,Subscriber,Disaster Response,10,0.33,9,0.56
+VOL_1187,35,40.3263,-80.4526,52.25,Member,Environment,7,0.45,9,0.71
+VOL_1188,28,40.411,-79.7071,32.23,Subscriber,Health|Disaster Response|Peace,41,0.51,9,0.66
+VOL_1189,37,40.6166,-79.6211,45.96,Member,Health|Youth|Education,14,0.4,10,0.42
+VOL_1190,27,40.7987,-79.8897,41.46,Member,Peace,37,0.26,4,0.15
+VOL_1191,50,39.9609,-80.3172,64.08,Subscriber,Peace|Youth|Health,11,0.12,10,0.43
+VOL_1192,37,40.8471,-80.0269,45.25,Subscriber,Health|Youth,44,0.84,8,0.3
+VOL_1193,53,40.4557,-80.1902,21.64,Non-member,Health|Peace|Education,3,0.87,2,0.39
+VOL_1194,31,40.741,-80.0485,33.86,Member,Health|Peace|Education,17,0.55,3,0.26
+VOL_1195,74,40.7078,-80.0996,31.81,Non-member,Health|Education|Environment,14,0.51,8,0.86
+VOL_1196,50,40.713,-79.6085,52.56,Member,Peace|Health|Youth,29,0.78,1,0.11
+VOL_1197,36,39.9602,-79.5145,75.49,Non-member,Disaster Response|Peace|Environment,17,0.37,8,0.77
+VOL_1198,70,40.5805,-79.9292,17.21,Member,Disaster Response,8,0.43,6,0.2
+VOL_1199,55,40.7548,-79.6664,50.54,Non-member,Education|Health,41,0.17,1,0.16
+VOL_1200,22,39.9909,-79.9274,50.49,Subscriber,Environment,28,0.22,9,0.75
+VOL_1201,56,40.1708,-80.4253,56.29,Subscriber,Environment|Peace|Health,47,0.15,8,0.77
+VOL_1202,19,40.8151,-79.7163,51.88,Member,Environment,22,0.33,2,0.47
+VOL_1203,66,40.6287,-79.6548,43.24,Member,Peace,32,0.24,9,0.23
+VOL_1204,32,40.4558,-80.3211,36.13,Member,Disaster Response|Health,25,0.94,6,0.27
+VOL_1205,26,40.1944,-79.6745,44.94,Non-member,Youth|Disaster Response,11,0.38,10,0.37
+VOL_1206,25,40.0812,-80.343,55.46,Subscriber,Health|Environment,45,0.12,2,0.52
+VOL_1207,19,40.1378,-80.124,36.49,Non-member,Disaster Response|Environment|Youth,42,0.2,3,0.72
+VOL_1208,65,40.9083,-80.222,57.66,Subscriber,Youth|Education|Disaster Response,34,0.19,8,0.28
+VOL_1209,40,40.88,-80.1286,50.95,Subscriber,Youth|Disaster Response|Environment,19,0.68,4,0.57
+VOL_1210,69,40.0661,-79.9196,42.43,Subscriber,Health|Peace|Disaster Response,18,0.44,9,0.4
+VOL_1211,66,40.5957,-80.4908,57.56,Subscriber,Environment|Youth|Education,30,0.66,6,0.32
+VOL_1212,60,40.414,-80.2299,26.14,Non-member,Health|Peace|Disaster Response,8,0.59,7,0.23
+VOL_1213,42,40.6979,-80.1317,32.29,Non-member,Peace,31,0.62,4,0.23
+VOL_1214,36,40.8513,-79.9223,46.31,Member,Youth|Environment,36,0.57,3,0.41
+VOL_1215,55,40.1887,-80.2372,38.72,Non-member,Health,26,0.53,4,0.38
+VOL_1216,49,40.2262,-79.8043,31.92,Member,Peace|Youth,2,0.44,3,0.31
+VOL_1217,71,40.6687,-79.6243,48.4,Non-member,Youth|Disaster Response|Education,30,0.27,1,0.1
+VOL_1218,30,40.7996,-79.9067,41.06,Non-member,Peace,31,0.42,1,0.02
+VOL_1219,47,40.6988,-80.2854,43.06,Member,Disaster Response|Education,6,0.87,4,0.01
+VOL_1220,40,40.3095,-80.2269,29.48,Member,Disaster Response,1,0.93,2,0.38
+VOL_1221,59,40.2752,-80.0212,18.57,Member,Youth|Environment|Disaster Response,48,0.78,1,0.63
+VOL_1222,45,40.5376,-80.3343,39.07,Non-member,Health|Peace,31,0.58,6,0.3
+VOL_1223,30,40.0018,-79.5475,69.64,Subscriber,Environment|Disaster Response,30,0.18,6,0.4
+VOL_1224,61,40.2884,-80.2442,32.33,Member,Education|Environment,33,0.65,6,0.66
+VOL_1225,49,40.2237,-80.4636,57.23,Member,Education|Environment|Youth,25,0.63,4,0.43
+VOL_1226,55,40.0477,-79.9427,44.01,Non-member,Peace|Environment,17,0.86,8,0.78
+VOL_1227,57,39.957,-80.3164,64.4,Non-member,Disaster Response,6,0.48,5,0.04
+VOL_1228,40,40.6848,-79.7702,36.91,Non-member,Disaster Response|Education,1,0.17,10,0.52
+VOL_1229,55,40.8571,-79.6336,61.27,Subscriber,Health,32,0.95,4,0.14
+VOL_1230,23,40.0901,-80.1984,44.94,Member,Health|Peace,3,0.51,5,0.13
+VOL_1231,69,40.4657,-80.0548,7.11,Subscriber,Disaster Response|Education|Health,50,0.38,6,0.25
+VOL_1232,71,40.6131,-79.607,47.22,Subscriber,Youth|Disaster Response,50,0.79,3,0.06
+VOL_1233,25,40.1695,-80.3133,46.33,Member,Youth|Disaster Response|Education,0,0.53,3,0.15
+VOL_1234,46,40.8927,-79.6941,60.34,Member,Youth|Education,29,0.6,5,0.06
+VOL_1235,37,40.6693,-79.8232,31.81,Subscriber,Health|Education|Peace,33,0.13,3,0.21
+VOL_1236,43,39.9853,-79.8041,54.84,Subscriber,Environment,43,0.12,10,0.79
+VOL_1237,70,40.4195,-79.5468,49.91,Member,Youth,26,0.61,3,0.0
+VOL_1238,55,40.8428,-80.478,69.7,Subscriber,Health,19,0.13,7,0.18
+VOL_1239,46,40.719,-80.1924,37.82,Member,Education|Peace|Disaster Response,14,0.37,3,0.36
+VOL_1240,66,40.8256,-80.186,47.66,Non-member,Peace,24,0.71,10,0.22
+VOL_1241,53,40.0083,-79.6871,58.97,Non-member,Education|Peace,5,0.84,10,0.43
+VOL_1242,44,40.1125,-79.9177,37.44,Subscriber,Health,18,0.85,10,0.59
+VOL_1243,64,40.2251,-80.4015,50.98,Member,Disaster Response|Health|Environment,0,0.31,4,0.41
+VOL_1244,73,40.1386,-80.1013,35.5,Member,Education|Disaster Response,32,0.1,5,0.2
+VOL_1245,19,40.5559,-80.3645,42.87,Non-member,Environment|Disaster Response|Health,7,0.38,2,0.54
+VOL_1246,70,40.2734,-80.4171,50.3,Member,Youth|Environment|Disaster Response,3,0.54,10,0.72
+VOL_1247,70,40.4326,-79.657,37.63,Subscriber,Environment|Disaster Response,45,0.59,9,0.84
+VOL_1248,69,40.1235,-80.0238,35.34,Non-member,Education,8,0.32,6,0.3
+VOL_1249,23,40.4575,-79.8654,14.6,Subscriber,Health|Education,19,0.77,3,0.36
+VOL_1250,34,40.3085,-79.7174,34.22,Member,Youth|Health,37,0.57,4,0.26
+VOL_1251,30,40.2094,-79.8972,27.9,Non-member,Education|Youth,5,0.26,4,0.37
+VOL_1252,72,40.5864,-79.8789,20.74,Subscriber,Disaster Response,18,0.52,8,0.49
+VOL_1253,56,40.4561,-79.5453,50.04,Subscriber,Health|Education,45,0.83,5,0.1
+VOL_1254,19,40.1399,-80.4407,59.6,Subscriber,Health,44,0.29,3,0.2
+VOL_1255,49,40.4586,-79.8552,15.75,Non-member,Youth,4,0.68,5,0.34
+VOL_1256,55,40.527,-79.9261,12.33,Non-member,Disaster Response|Health|Youth,30,0.69,3,0.37
+VOL_1257,45,40.6328,-79.863,25.94,Non-member,Health|Environment,15,0.92,7,0.64
+VOL_1258,23,40.512,-80.43,48.83,Subscriber,Youth,30,0.28,6,0.01
+VOL_1259,32,40.3153,-79.5679,49.5,Subscriber,Peace|Youth|Environment,18,0.95,7,0.44
+VOL_1260,18,40.2592,-80.023,20.36,Subscriber,Environment|Peace,38,0.88,8,1.0
+VOL_1261,59,40.0038,-79.6039,65.14,Member,Youth|Disaster Response,49,0.55,10,0.37
+VOL_1262,23,40.1842,-80.1019,30.8,Member,Peace,9,0.92,6,0.33
+VOL_1263,50,40.331,-79.7279,32.13,Subscriber,Environment|Peace,39,0.47,6,0.74
+VOL_1264,47,40.7308,-80.1441,36.17,Subscriber,Environment|Disaster Response|Education,14,0.75,2,0.67
+VOL_1265,27,40.8299,-80.1387,46.03,Non-member,Health|Youth,37,0.48,9,0.38
+VOL_1266,47,40.7304,-79.8728,34.95,Non-member,Disaster Response|Environment|Education,10,0.41,4,0.63
+VOL_1267,69,40.026,-80.2659,54.92,Member,Environment,40,0.55,4,0.44
+VOL_1268,60,40.3617,-79.7052,33.44,Subscriber,Disaster Response|Environment,40,0.39,3,0.59
+VOL_1269,67,40.7706,-80.1369,39.83,Subscriber,Youth|Disaster Response|Education,48,0.52,8,0.44
+VOL_1270,21,40.6474,-80.4381,54.18,Member,Peace|Education,17,0.44,5,0.14
+VOL_1271,53,40.764,-80.3879,56.41,Member,Health,19,0.56,5,0.0
+VOL_1272,31,40.0552,-80.4804,68.72,Member,Education|Youth|Environment,50,0.59,1,0.54
+VOL_1273,20,40.5994,-80.3109,39.16,Subscriber,Disaster Response,46,0.75,9,0.67
+VOL_1274,28,40.4422,-79.8364,17.71,Non-member,Peace,44,0.62,9,0.62
+VOL_1275,44,40.5739,-80.459,53.5,Subscriber,Health|Environment,22,0.27,10,0.86
+VOL_1276,31,40.4034,-80.2823,32.06,Subscriber,Health|Youth|Disaster Response,23,0.14,5,0.32
+VOL_1277,52,40.6291,-79.6179,46.89,Subscriber,Youth|Peace|Disaster Response,42,0.87,10,0.46
+VOL_1278,40,40.4939,-80.2011,23.53,Subscriber,Health|Education,47,0.61,8,0.66
+VOL_1279,65,40.8652,-80.2738,56.33,Non-member,Health|Education|Peace,26,0.72,4,0.09
+VOL_1280,54,40.1961,-79.6844,43.95,Subscriber,Disaster Response,24,0.12,4,0.05
+VOL_1281,27,39.9584,-79.7306,61.09,Non-member,Education,1,0.48,6,0.17
+VOL_1282,67,39.9646,-79.6121,67.87,Subscriber,Health|Education|Peace,44,0.7,10,0.25
+VOL_1283,58,40.0749,-79.5583,63.3,Member,Disaster Response|Health,3,0.64,8,0.45
+VOL_1284,37,40.6309,-79.6755,41.37,Non-member,Environment,8,0.6,6,0.43
+VOL_1285,65,39.9658,-79.6703,63.9,Member,Education|Peace|Environment,27,0.35,6,0.36
+VOL_1286,19,39.9455,-80.054,55.34,Subscriber,Health,49,0.86,7,0.04
+VOL_1287,34,40.3409,-79.7579,28.64,Non-member,Education|Health|Youth,14,0.16,4,0.2
+VOL_1288,53,40.3571,-80.4899,55.61,Subscriber,Youth,6,0.77,9,0.4
+VOL_1289,61,40.6802,-80.21,35.67,Member,Disaster Response|Health,23,0.38,6,0.15
+VOL_1290,59,39.9767,-80.4228,69.98,Member,Disaster Response|Health,37,0.1,10,0.49
+VOL_1291,53,40.2536,-80.4258,52.04,Non-member,Youth,4,0.4,1,0.04
+VOL_1292,72,39.9744,-80.0951,52.9,Subscriber,Peace|Education,5,0.26,6,0.0
+VOL_1293,38,40.4249,-80.3838,43.09,Member,Peace|Environment|Disaster Response,17,0.78,5,0.4
+VOL_1294,37,40.1783,-80.3928,52.81,Non-member,Peace|Health|Disaster Response,17,0.32,4,0.09
+VOL_1295,58,40.4212,-80.1656,18.95,Subscriber,Disaster Response|Health|Environment,20,0.63,2,0.61
+VOL_1296,75,40.4793,-80.0323,5.9,Member,Youth|Disaster Response,50,0.83,1,0.28
+VOL_1297,43,40.5433,-79.6626,38.72,Member,Health,33,0.36,4,0.26
+VOL_1298,56,40.4207,-79.6449,39.02,Subscriber,Youth|Health|Education,42,0.16,7,0.37
+VOL_1299,41,40.1649,-79.9917,30.6,Subscriber,Disaster Response|Environment|Education,14,0.17,3,0.75
+VOL_1300,19,40.3424,-80.2492,30.16,Subscriber,Environment|Youth|Health,43,0.54,2,0.61
+VOL_1301,41,40.1573,-79.6323,51.16,Non-member,Health|Environment|Peace,13,0.81,6,0.47
+VOL_1302,49,40.4362,-79.6403,39.47,Non-member,Disaster Response|Education|Youth,39,0.25,8,0.66
+VOL_1303,73,40.4981,-79.7639,26.53,Non-member,Youth|Education|Health,7,0.21,9,0.59
+VOL_1304,18,40.7336,-79.8868,34.7,Subscriber,Health|Disaster Response|Peace,14,0.79,3,0.33
+VOL_1305,69,40.9024,-80.0359,51.45,Member,Education|Peace,47,0.14,2,0.0
+VOL_1306,20,40.8874,-80.4761,72.8,Subscriber,Environment|Youth,15,0.51,6,0.47
+VOL_1307,60,40.8893,-79.5714,68.56,Non-member,Education,6,0.83,9,0.22
+VOL_1308,53,40.5381,-79.8113,23.17,Member,Disaster Response|Health,25,0.31,10,0.56
+VOL_1309,41,40.5707,-79.7503,30.84,Non-member,Youth|Education,18,0.4,4,0.28
+VOL_1310,56,40.6103,-79.8726,23.28,Non-member,Youth|Education,48,0.42,1,0.27
+VOL_1311,58,40.4215,-79.9456,5.97,Subscriber,Education,48,0.9,3,0.34
+VOL_1312,71,40.2073,-80.3566,47.69,Non-member,Youth|Peace|Education,25,0.11,3,0.02
+VOL_1313,66,40.6424,-79.5632,53.0,Subscriber,Environment|Peace,8,0.64,3,0.31
+VOL_1314,64,40.4281,-80.121,13.96,Non-member,Youth,26,0.67,10,0.6
+VOL_1315,50,40.6013,-79.8522,23.93,Subscriber,Youth|Peace|Disaster Response,49,0.25,8,0.56
+VOL_1316,39,40.6385,-80.4463,54.61,Non-member,Health,26,0.51,10,0.33
+VOL_1317,49,40.2321,-79.6243,47.3,Non-member,Disaster Response|Education|Environment,47,0.55,5,0.44
+VOL_1318,25,40.2471,-79.5769,51.23,Non-member,Youth|Peace,1,0.86,5,0.14
+VOL_1319,18,40.6972,-80.286,43.0,Subscriber,Peace,36,0.46,6,0.18
+VOL_1320,25,40.3549,-79.8324,20.49,Member,Disaster Response|Environment,37,0.39,2,0.62
+VOL_1321,27,40.0552,-79.9158,43.69,Non-member,Education,6,0.26,6,0.19
+VOL_1322,29,40.2144,-79.6408,46.73,Non-member,Health|Youth|Peace,6,0.95,10,0.33
+VOL_1323,32,40.5471,-80.0832,15.29,Non-member,Environment,16,0.69,5,0.75
+VOL_1324,47,40.196,-79.7527,38.29,Member,Disaster Response|Education|Health,36,0.64,5,0.24
+VOL_1325,57,40.4352,-79.6467,38.77,Non-member,Youth,40,0.68,7,0.38
+VOL_1326,72,40.8074,-79.8302,44.68,Member,Education|Youth,29,0.54,4,0.0
+VOL_1327,38,40.4699,-80.02,4.21,Subscriber,Education|Peace|Youth,39,0.87,4,0.38
+VOL_1328,18,40.3201,-79.8039,25.16,Subscriber,Health|Education,9,0.64,5,0.38
+VOL_1329,46,40.0627,-79.7533,49.84,Member,Peace|Health,16,0.38,6,0.08
+VOL_1330,29,40.1379,-80.0506,34.14,Member,Health|Peace,39,0.2,2,0.34
+VOL_1331,40,40.8334,-80.1764,47.99,Non-member,Education|Peace,12,0.72,3,0.04
+VOL_1332,48,40.4021,-79.5535,49.29,Non-member,Environment,7,0.82,3,0.57
+VOL_1333,55,40.7287,-79.7662,40.9,Member,Disaster Response,43,0.7,3,0.0
+VOL_1334,61,40.6735,-79.9762,25.94,Member,Youth,36,0.73,9,0.59
+VOL_1335,24,40.6134,-79.7053,37.53,Member,Peace|Education|Health,40,0.62,9,0.66
+VOL_1336,34,40.9276,-80.292,63.26,Non-member,Disaster Response|Education,44,0.25,8,0.39
+VOL_1337,71,40.5446,-80.3091,36.63,Member,Health,48,0.82,4,0.18
+VOL_1338,46,40.2099,-80.477,59.23,Subscriber,Environment,13,0.34,4,0.55
+VOL_1339,54,40.1035,-79.9202,38.35,Member,Education|Youth,35,0.84,5,0.24
+VOL_1340,67,40.7786,-79.8719,39.97,Subscriber,Education|Disaster Response|Peace,39,0.4,8,0.51
+VOL_1341,53,40.7929,-80.1444,42.44,Member,Peace|Environment,11,0.17,4,0.43
+VOL_1342,19,40.4458,-80.336,37.76,Subscriber,Youth|Disaster Response,46,0.59,10,0.52
+VOL_1343,24,40.013,-79.6751,59.33,Member,Youth|Health,38,0.61,4,0.08
+VOL_1344,67,40.7038,-80.2135,37.91,Non-member,Environment|Youth,0,0.72,7,0.65
+VOL_1345,59,40.034,-80.4756,69.8,Member,Health,4,0.64,10,0.42
+VOL_1346,58,40.1745,-80.1352,33.34,Member,Youth,13,0.25,8,0.55
+VOL_1347,58,40.0852,-79.6556,54.61,Member,Disaster Response|Peace,36,0.73,6,0.11
+VOL_1348,67,40.9073,-80.2126,57.11,Subscriber,Health,32,0.64,9,0.23
+VOL_1349,72,40.1283,-80.3905,55.85,Member,Health|Youth,10,0.74,3,0.0
+VOL_1350,71,40.1224,-79.5644,59.51,Subscriber,Peace,33,0.56,5,0.0
+VOL_1351,72,40.6814,-80.3272,45.46,Non-member,Health|Disaster Response,39,0.41,9,0.27
+VOL_1352,23,40.1968,-80.4786,60.03,Member,Education,16,0.18,6,0.02
+VOL_1353,20,40.3174,-79.9697,13.98,Member,Environment|Health|Disaster Response,10,0.24,6,0.64
+VOL_1354,22,40.2899,-79.7202,34.88,Member,Health|Disaster Response,21,0.24,9,0.51
+VOL_1355,29,40.2592,-80.0656,21.57,Subscriber,Youth|Health,10,0.29,7,0.24
+VOL_1356,36,40.3544,-80.2499,29.78,Non-member,Health|Disaster Response,7,0.89,1,0.4
+VOL_1357,42,40.8851,-79.5252,71.87,Member,Disaster Response|Environment,43,0.49,3,0.43
+VOL_1358,43,40.8113,-79.9813,41.17,Subscriber,Health,18,0.8,2,0.07
+VOL_1359,23,40.1073,-80.111,39.14,Subscriber,Environment|Disaster Response|Education,14,0.36,2,0.75
+VOL_1360,23,40.6184,-80.476,56.83,Non-member,Peace|Youth|Health,48,0.2,3,0.04
+VOL_1361,27,40.3152,-79.7188,33.76,Subscriber,Environment|Education|Peace,25,0.26,4,0.62
+VOL_1362,33,40.9232,-80.2313,59.6,Member,Disaster Response|Peace,42,0.37,5,0.09
+VOL_1363,26,40.3242,-79.5982,46.0,Non-member,Peace|Disaster Response,21,0.41,3,0.02
+VOL_1364,57,40.7972,-79.7272,49.56,Member,Environment,7,0.46,4,0.41
+VOL_1365,36,40.5854,-80.1766,25.7,Member,Peace|Youth|Environment,13,0.74,6,0.75
+VOL_1366,65,40.0716,-80.3775,58.92,Subscriber,Environment|Health|Disaster Response,7,0.33,6,0.33
+VOL_1367,65,40.687,-79.9088,29.01,Subscriber,Environment|Health|Education,18,0.14,4,0.51
+VOL_1368,18,40.4778,-79.6505,38.56,Non-member,Peace|Education|Youth,3,0.23,4,0.29
+VOL_1369,72,40.0863,-79.9908,39.33,Non-member,Environment|Health|Youth,50,0.78,10,0.84
+VOL_1370,62,40.6528,-79.8555,28.25,Member,Youth|Health|Education,12,0.44,10,0.48
+VOL_1371,53,40.1331,-79.8364,38.46,Non-member,Youth|Disaster Response,38,0.77,8,0.56
+VOL_1372,55,39.9854,-80.333,62.87,Member,Environment,9,0.74,9,0.77
+VOL_1373,18,40.5959,-80.3398,41.88,Member,Peace|Youth,47,0.74,6,0.15
+VOL_1374,59,40.9114,-80.0075,52.27,Non-member,Disaster Response,5,0.8,8,0.41
+VOL_1375,64,40.4889,-80.2793,31.91,Subscriber,Disaster Response|Environment|Education,24,0.68,10,0.91
+VOL_1376,63,40.3931,-80.3253,36.95,Non-member,Health,15,0.26,5,0.26
+VOL_1377,60,40.1097,-80.0852,38.04,Subscriber,Disaster Response,12,0.81,1,0.14
+VOL_1378,68,40.5328,-79.6921,35.23,Subscriber,Peace|Health|Environment,46,0.25,3,0.54
+VOL_1379,42,40.9391,-79.737,62.35,Subscriber,Peace|Disaster Response,20,0.56,7,0.2
+VOL_1380,65,40.5876,-80.1017,20.11,Subscriber,Youth,50,0.94,8,0.42
+VOL_1381,53,40.5968,-79.6334,43.81,Non-member,Education,40,0.71,1,0.17
+VOL_1382,72,40.0235,-79.6221,62.17,Subscriber,Disaster Response,28,0.52,8,0.32
+VOL_1383,49,40.6863,-80.2046,35.79,Member,Health,10,0.57,7,0.29
+VOL_1384,26,40.6736,-80.0364,26.25,Non-member,Health,36,0.24,2,0.27
+VOL_1385,48,40.8386,-80.2332,51.44,Member,Environment|Youth|Education,48,0.88,6,0.56
+VOL_1386,41,40.8955,-79.5645,69.59,Member,Environment,29,0.18,4,0.4
+VOL_1387,43,40.5815,-79.937,16.95,Member,Youth,3,0.82,2,0.34
+VOL_1388,54,40.2512,-79.8597,25.89,Non-member,Health|Peace|Disaster Response,2,0.25,7,0.31
+VOL_1389,40,40.7898,-80.2654,48.96,Subscriber,Environment|Disaster Response|Health,24,0.3,3,0.52
+VOL_1390,29,40.519,-79.768,26.75,Non-member,Education|Health|Youth,50,0.49,8,0.61
+VOL_1391,65,40.7863,-80.3198,52.58,Member,Disaster Response,9,0.21,7,0.02
+VOL_1392,48,40.2163,-79.6528,45.51,Non-member,Peace|Education,21,0.24,4,0.11
+VOL_1393,25,40.9292,-80.4175,71.63,Non-member,Peace,20,0.91,6,0.15
+VOL_1394,30,40.8275,-79.5154,68.47,Subscriber,Peace|Environment,17,0.21,5,0.54
+VOL_1395,72,40.5692,-79.7205,33.74,Non-member,Health|Peace|Disaster Response,26,0.5,4,0.22
+VOL_1396,42,40.6703,-80.3691,48.64,Non-member,Environment|Disaster Response,47,0.58,10,0.79
+VOL_1397,29,40.6657,-79.5823,52.27,Member,Youth|Disaster Response,10,0.81,7,0.05
+VOL_1398,24,40.2145,-79.7794,34.75,Non-member,Disaster Response|Environment,43,0.12,4,0.61
+VOL_1399,29,39.9489,-80.4211,72.15,Non-member,Health,19,0.76,5,0.05
+VOL_1400,56,40.5452,-80.1887,24.35,Member,Peace|Environment,38,0.81,1,0.71
+VOL_1401,59,40.1729,-79.9769,29.78,Non-member,Peace|Environment|Education,32,0.2,2,0.65
+VOL_1402,69,40.8876,-80.2095,55.0,Non-member,Education|Youth|Disaster Response,46,0.26,7,0.07
+VOL_1403,41,40.31,-79.9617,14.99,Member,Youth|Education,22,0.4,5,0.24
+VOL_1404,48,40.0416,-80.0843,45.36,Subscriber,Health|Disaster Response,0,0.6,10,0.32
+VOL_1405,73,40.719,-79.5533,58.04,Subscriber,Disaster Response|Youth,36,0.63,7,0.0
+VOL_1406,38,40.6134,-80.1801,28.03,Member,Disaster Response,25,0.8,8,0.61
+VOL_1407,27,40.8184,-80.2025,47.8,Member,Disaster Response,6,0.93,7,0.14
+VOL_1408,20,39.9441,-80.2036,59.74,Member,Youth,7,0.83,5,0.19
+VOL_1409,24,40.1481,-79.5939,55.18,Member,Health,21,0.82,1,0.14
+VOL_1410,35,40.2883,-80.4214,50.17,Subscriber,Disaster Response|Health,21,0.87,4,0.08
+VOL_1411,42,40.2757,-80.1932,28.55,Subscriber,Environment|Peace,26,0.18,2,0.76
+VOL_1412,24,40.0072,-80.0949,49.34,Non-member,Education|Peace|Disaster Response,34,0.66,3,0.19
+VOL_1413,18,40.3875,-79.8517,17.06,Non-member,Peace|Health,45,0.89,10,0.7
+VOL_1414,27,40.4352,-79.9054,10.07,Subscriber,Youth|Environment|Disaster Response,25,0.26,4,0.61
+VOL_1415,30,40.409,-80.3957,44.52,Subscriber,Peace|Youth,16,0.79,6,0.06
+VOL_1416,54,40.5235,-79.6255,42.13,Member,Environment,4,0.18,10,0.87
+VOL_1417,40,40.5823,-80.103,19.71,Non-member,Youth|Environment,38,0.34,7,0.73
+VOL_1418,71,40.4949,-79.8649,15.74,Member,Peace|Health|Education,1,0.21,8,0.49
+VOL_1419,62,40.5485,-80.1935,24.99,Subscriber,Youth|Environment|Education,37,0.4,5,0.52
+VOL_1420,41,40.881,-80.1141,50.61,Subscriber,Peace|Youth,26,0.56,6,0.18
+VOL_1421,30,40.2809,-79.5811,49.33,Non-member,Peace,1,0.61,6,0.01
+VOL_1422,27,40.3596,-80.1699,21.3,Member,Education,20,0.62,5,0.22
+VOL_1423,22,40.1287,-79.496,65.4,Non-member,Education|Environment,8,0.79,1,0.4
+VOL_1424,40,40.2725,-80.1748,27.25,Member,Disaster Response|Health,3,0.33,5,0.33
+VOL_1425,64,40.9088,-80.2029,56.82,Member,Education|Peace|Environment,37,0.69,8,0.73
+VOL_1426,40,39.9492,-79.7011,63.61,Subscriber,Environment|Education,42,0.25,8,0.84
+VOL_1427,33,40.4325,-79.7282,29.72,Non-member,Health,9,0.31,4,0.22
+VOL_1428,58,40.3753,-79.8818,14.59,Subscriber,Youth|Peace,15,0.58,9,0.69
+VOL_1429,67,40.3617,-79.7722,26.33,Member,Environment,28,0.11,7,0.64
+VOL_1430,49,40.3368,-79.8238,22.31,Subscriber,Environment,42,0.38,5,0.75
+VOL_1431,54,40.2796,-79.9064,20.45,Subscriber,Education|Environment,49,0.43,5,0.77
+VOL_1432,48,40.2837,-80.1766,26.56,Member,Environment|Education|Health,27,0.39,1,0.66
+VOL_1433,36,40.5359,-80.4674,53.4,Subscriber,Disaster Response|Health,28,0.32,3,0.08
+VOL_1434,68,40.3612,-80.1489,19.13,Non-member,Peace,32,0.83,3,0.21
+VOL_1435,19,40.7442,-79.7229,45.32,Subscriber,Education,23,0.65,10,0.43
+VOL_1436,24,40.502,-80.249,28.91,Subscriber,Peace|Education,26,0.27,6,0.22
+VOL_1437,21,40.7332,-80.0555,33.15,Non-member,Youth|Peace,4,0.18,3,0.37
+VOL_1438,46,40.9027,-79.5954,67.88,Member,Youth|Peace|Education,46,0.5,8,0.33
+VOL_1439,61,40.9289,-79.8399,56.9,Subscriber,Health|Environment|Education,19,0.1,8,0.6
+VOL_1440,48,40.8063,-80.4766,67.05,Subscriber,Youth|Environment,45,0.11,9,0.73
+VOL_1441,49,40.1124,-80.2499,46.07,Subscriber,Youth|Health|Disaster Response,25,0.77,5,0.02
+VOL_1442,35,40.657,-80.084,25.94,Member,Disaster Response|Peace,39,0.16,3,0.32
+VOL_1443,74,40.8802,-79.5589,68.8,Subscriber,Disaster Response|Youth|Environment,29,0.19,5,0.43
+VOL_1444,75,40.574,-80.2723,34.06,Non-member,Disaster Response|Youth|Health,2,0.76,10,0.49
+VOL_1445,32,40.1582,-80.028,31.55,Non-member,Health|Youth,32,0.92,5,0.33
+VOL_1446,75,40.7308,-79.7015,45.89,Member,Peace|Youth|Education,48,0.7,5,0.0
+VOL_1447,18,40.4045,-80.3478,39.27,Non-member,Youth|Environment|Education,37,0.7,8,1.0
+VOL_1448,73,40.8485,-79.7691,51.81,Non-member,Environment|Disaster Response|Youth,23,0.78,9,0.68
+VOL_1449,69,40.7732,-79.6251,55.29,Subscriber,Health,37,0.45,7,0.0
+VOL_1450,61,40.5126,-79.6948,34.36,Member,Disaster Response,25,0.52,5,0.18
+VOL_1451,49,40.5387,-79.9432,12.36,Subscriber,Youth|Disaster Response,2,0.13,2,0.36
+VOL_1452,73,40.9147,-80.0841,53.53,Subscriber,Disaster Response|Environment|Peace,19,0.67,1,0.33
+VOL_1453,35,40.3285,-80.0929,16.46,Non-member,Youth|Environment|Disaster Response,26,0.68,5,0.72
+VOL_1454,75,40.2353,-79.8286,29.4,Non-member,Environment|Disaster Response,1,0.74,8,0.83
+VOL_1455,74,40.0191,-79.6049,63.81,Member,Peace|Education,3,0.2,4,0.0
+VOL_1456,28,40.3414,-79.9858,11.07,Member,Environment|Peace,11,0.69,5,0.76
+VOL_1457,45,40.5237,-80.2594,30.67,Non-member,Youth|Health|Disaster Response,3,0.89,3,0.23
+VOL_1458,26,40.051,-79.8389,46.62,Member,Disaster Response,12,0.58,9,0.32
+VOL_1459,58,40.6879,-79.8787,30.37,Subscriber,Education|Health,14,0.59,6,0.37
+VOL_1460,20,40.9254,-80.2606,61.31,Subscriber,Health,33,0.25,9,0.31
+VOL_1461,28,40.6615,-79.6523,45.34,Non-member,Disaster Response|Education,40,0.6,7,0.09
+VOL_1462,23,40.4403,-80.3242,36.44,Subscriber,Youth|Health,44,0.57,8,0.56
+VOL_1463,19,40.2514,-80.4582,55.45,Member,Environment,26,0.71,7,0.51
+VOL_1464,57,40.6052,-80.3197,40.32,Member,Peace,22,0.72,9,0.5
+VOL_1465,39,40.7226,-79.705,44.97,Subscriber,Disaster Response,5,0.93,3,0.14
+VOL_1466,43,40.8655,-80.4076,65.67,Subscriber,Environment|Disaster Response|Youth,39,0.15,1,0.47
+VOL_1467,61,40.7691,-79.9989,36.46,Non-member,Disaster Response,17,0.79,1,0.23
+VOL_1468,20,40.2759,-80.261,34.64,Subscriber,Environment|Peace,9,0.36,8,0.96
+VOL_1469,66,40.4872,-80.1626,19.21,Non-member,Youth,37,0.79,6,0.22
+VOL_1470,43,40.7716,-80.4431,61.75,Member,Youth|Health,47,0.51,2,0.16
+VOL_1471,21,40.7704,-80.0322,36.82,Member,Environment,2,0.87,1,0.65
+VOL_1472,26,40.2343,-79.6752,42.33,Member,Environment|Health|Youth,47,0.59,4,0.52
+VOL_1473,55,40.2574,-79.597,48.72,Non-member,Health|Disaster Response|Peace,1,0.53,4,0.2
+VOL_1474,28,40.1818,-79.549,57.33,Subscriber,Health,50,0.49,10,0.43
+VOL_1475,32,40.4261,-80.23,26.03,Member,Health|Education|Peace,1,0.94,4,0.3
+VOL_1476,53,40.3236,-80.1865,24.82,Subscriber,Environment|Peace|Disaster Response,44,0.37,10,0.9
+VOL_1477,30,40.1038,-79.6007,57.64,Non-member,Peace|Education|Disaster Response,31,0.76,8,0.41
+VOL_1478,71,40.5215,-80.2542,30.04,Member,Environment|Peace,6,0.59,5,0.69
+VOL_1479,19,40.2683,-80.1357,24.62,Member,Youth,39,0.65,4,0.39
+VOL_1480,50,40.3156,-79.8799,18.92,Member,Youth|Disaster Response|Environment,28,0.34,2,0.71
+VOL_1481,72,40.5054,-79.822,20.61,Non-member,Environment|Disaster Response,33,0.44,8,0.91
+VOL_1482,30,40.6196,-80.3,39.16,Member,Environment|Education,33,0.64,4,0.7
+VOL_1483,54,40.6812,-80.3665,49.05,Non-member,Environment|Peace|Health,34,0.21,4,0.49
+VOL_1484,66,40.5968,-79.8639,22.7,Non-member,Youth,35,0.74,1,0.13
+VOL_1485,51,39.9792,-80.1778,55.05,Subscriber,Disaster Response,40,0.22,9,0.46
+VOL_1486,64,40.08,-79.5371,64.77,Subscriber,Disaster Response|Environment,43,0.59,3,0.37
+VOL_1487,51,40.1474,-80.4311,58.25,Subscriber,Peace|Education,29,0.84,5,0.02
+VOL_1488,62,40.4191,-79.8322,18.33,Subscriber,Peace|Environment,13,0.43,8,0.95
+VOL_1489,63,40.8351,-79.5156,69.0,Member,Environment|Education,30,0.21,3,0.39
+VOL_1490,35,40.8007,-79.5552,63.17,Member,Health|Youth,18,0.4,8,0.47
+VOL_1491,43,39.9615,-79.7899,57.89,Subscriber,Peace,48,0.28,6,0.2
+VOL_1492,26,40.6125,-79.8002,28.92,Member,Education|Disaster Response|Peace,1,0.18,10,0.7
+VOL_1493,20,40.1813,-79.5483,57.41,Subscriber,Education|Youth,48,0.34,9,0.32
+VOL_1494,24,39.9731,-80.3617,65.89,Member,Youth|Health|Environment,6,0.94,10,0.8
+VOL_1495,46,40.8197,-80.4287,63.86,Non-member,Environment|Peace,14,0.77,4,0.48
+VOL_1496,48,40.0003,-80.0112,48.9,Member,Peace|Youth,34,0.87,5,0.05
+VOL_1497,47,40.5089,-80.0694,11.13,Subscriber,Youth|Environment,47,0.61,4,0.71
+VOL_1498,48,40.6874,-79.9246,28.52,Non-member,Environment|Peace,24,0.88,8,1.0
+VOL_1499,61,40.6711,-79.6316,47.85,Subscriber,Education|Peace|Disaster Response,2,0.62,3,0.0
+VOL_1500,25,40.299,-80.1141,20.48,Subscriber,Disaster Response|Environment,50,0.74,3,0.72
+VOL_1501,43,40.6045,-80.4909,57.88,Non-member,Education|Disaster Response,20,0.24,1,0.18
+VOL_1502,48,40.7436,-79.6731,49.14,Non-member,Environment,3,0.68,6,0.47
+VOL_1503,37,40.7284,-79.5049,63.17,Subscriber,Health,39,0.88,2,0.08
+VOL_1504,40,40.94,-79.6056,70.35,Non-member,Disaster Response,41,0.71,3,0.1
+VOL_1505,18,40.4029,-80.3215,36.39,Non-member,Health|Peace|Education,0,0.74,4,0.37
+VOL_1506,46,40.7548,-79.915,36.02,Non-member,Peace|Education|Disaster Response,5,0.34,5,0.23
+VOL_1507,40,40.4496,-79.598,44.18,Non-member,Health|Education,14,0.53,10,0.44
+VOL_1508,37,40.6155,-80.3659,45.43,Subscriber,Environment|Youth,38,0.15,6,0.53
+VOL_1509,20,40.3039,-79.8942,18.92,Member,Health|Youth,32,0.47,1,0.34
+VOL_1510,44,40.2046,-80.0968,28.49,Non-member,Peace,25,0.78,1,0.28
+VOL_1511,41,40.4524,-79.7014,32.71,Subscriber,Disaster Response|Youth|Education,4,0.27,4,0.38
+VOL_1512,64,40.25,-80.2735,37.38,Member,Youth|Environment|Health,4,0.71,7,0.54
+VOL_1513,53,40.2814,-79.8359,25.05,Subscriber,Health|Peace,21,0.35,5,0.34
+VOL_1514,68,40.8217,-79.6284,58.77,Non-member,Education,6,0.72,9,0.26
+VOL_1515,28,40.295,-80.3255,40.0,Non-member,Disaster Response|Peace|Youth,0,0.13,7,0.1
+VOL_1516,72,40.4862,-79.882,13.62,Subscriber,Disaster Response|Health|Youth,19,0.51,10,0.53
+VOL_1517,62,40.2762,-80.2343,32.14,Subscriber,Environment,8,0.79,6,0.61
+VOL_1518,50,40.9403,-79.7813,60.37,Subscriber,Environment|Disaster Response,27,0.38,6,0.51
+VOL_1519,29,39.9873,-80.3545,64.16,Member,Health,11,0.73,1,0.12
+VOL_1520,51,40.8395,-80.4461,66.76,Member,Health,44,0.26,10,0.36
+VOL_1521,46,40.3953,-80.4953,55.66,Non-member,Education,46,0.68,8,0.42
+VOL_1522,25,40.291,-79.5773,49.35,Subscriber,Youth|Disaster Response|Health,50,0.63,6,0.09
+VOL_1523,66,40.2607,-79.8375,26.61,Non-member,Environment|Education|Health,4,0.77,2,0.53
+VOL_1524,66,40.4517,-79.9486,5.4,Subscriber,Environment,46,0.82,4,0.54
+VOL_1525,31,40.5709,-80.4,47.13,Member,Environment|Health|Education,48,0.55,6,0.43
+VOL_1526,55,40.3427,-80.4186,48.16,Subscriber,Education|Environment,4,0.21,10,0.83
+VOL_1527,20,40.6478,-80.1477,28.51,Member,Education|Disaster Response|Youth,28,0.8,2,0.25
+VOL_1528,53,40.5439,-80.4653,53.35,Non-member,Peace,35,0.92,3,0.11
+VOL_1529,46,40.7754,-79.8229,41.83,Non-member,Peace|Education|Youth,22,0.62,8,0.49
+VOL_1530,23,40.2406,-80.2981,40.22,Subscriber,Health,49,0.6,7,0.19
+VOL_1531,52,40.9288,-79.7172,62.4,Subscriber,Education,27,0.37,8,0.33
+VOL_1532,34,40.8223,-79.5072,68.83,Non-member,Peace,12,0.67,1,0.13
+VOL_1533,21,40.9252,-80.2152,59.04,Subscriber,Peace|Disaster Response|Youth,25,0.43,3,0.06
+VOL_1534,63,40.1724,-79.5526,57.51,Member,Disaster Response|Education,50,0.8,7,0.0
+VOL_1535,54,40.5551,-80.3456,40.84,Subscriber,Peace|Youth,17,0.52,7,0.07
+VOL_1536,38,40.1234,-80.3297,51.12,Member,Peace|Environment,36,0.75,5,0.52
+VOL_1537,48,40.774,-80.0086,37.03,Non-member,Peace,47,0.89,6,0.26
+VOL_1538,31,40.4271,-80.0471,5.88,Non-member,Youth|Peace,18,0.19,3,0.37
+VOL_1539,68,40.215,-80.1596,30.93,Non-member,Youth|Education,12,0.14,10,0.41
+VOL_1540,72,40.2277,-79.8025,31.93,Subscriber,Health|Disaster Response|Education,50,0.66,6,0.15
+VOL_1541,52,40.3604,-79.7074,33.24,Non-member,Disaster Response,23,0.92,8,0.53
+VOL_1542,23,40.0804,-79.5687,62.03,Member,Education|Health|Disaster Response,22,0.22,2,0.08
+VOL_1543,38,40.1669,-80.3149,46.65,Subscriber,Disaster Response|Peace,35,0.33,1,0.09
+VOL_1544,59,40.0386,-80.4804,69.88,Subscriber,Peace,27,0.42,8,0.42
+VOL_1545,60,39.9547,-80.2321,59.96,Subscriber,Disaster Response,45,0.79,2,0.05
+VOL_1546,21,40.8494,-79.9319,45.93,Subscriber,Environment|Education,1,0.88,10,0.81
+VOL_1547,56,40.4719,-79.6813,35.09,Member,Environment|Youth|Peace,7,0.9,9,0.99
+VOL_1548,50,40.7267,-80.199,38.94,Subscriber,Youth|Disaster Response,49,0.88,1,0.34
+VOL_1549,30,40.1463,-80.3967,55.2,Member,Youth|Disaster Response,27,0.1,3,0.02
+VOL_1550,34,40.5583,-79.9194,15.58,Subscriber,Disaster Response|Environment|Education,42,0.43,4,0.69
+VOL_1551,24,40.0039,-80.4402,69.15,Non-member,Health,6,0.72,5,0.06
+VOL_1552,75,40.1371,-79.5807,57.08,Member,Disaster Response|Environment|Education,16,0.3,4,0.45
+VOL_1553,35,40.0375,-79.6149,61.56,Member,Environment|Health,23,0.65,1,0.46
+VOL_1554,52,40.1979,-79.705,42.06,Subscriber,Education|Environment,2,0.14,5,0.42
+VOL_1555,39,40.3861,-80.1824,21.56,Subscriber,Peace|Education|Health,25,0.82,9,0.61
+VOL_1556,42,40.8305,-80.3078,55.42,Member,Peace|Youth,11,0.45,5,0.12
+VOL_1557,62,40.3397,-79.7196,32.64,Non-member,Environment,36,0.66,6,0.65
+VOL_1558,73,40.3095,-79.6341,42.72,Non-member,Health,7,0.89,5,0.0
+VOL_1559,57,40.4355,-79.5791,46.27,Non-member,Youth|Environment|Disaster Response,13,0.74,7,0.41
+VOL_1560,41,40.5758,-79.8148,25.09,Non-member,Youth,17,0.7,1,0.26
+VOL_1561,70,40.3036,-80.3024,37.27,Member,Education|Peace|Environment,14,0.65,8,0.89
+VOL_1562,53,40.4127,-79.6254,41.25,Non-member,Youth,41,0.82,9,0.37
+VOL_1563,47,40.1624,-80.0865,32.48,Member,Disaster Response,45,0.59,1,0.23
+VOL_1564,35,40.5585,-80.2275,28.85,Subscriber,Health|Education,38,0.42,6,0.37
+VOL_1565,44,40.4442,-80.2262,25.57,Member,Peace|Health|Youth,0,0.17,7,0.4
+VOL_1566,70,40.0862,-79.6751,53.06,Member,Youth,26,0.18,3,0.03
+VOL_1567,65,40.0762,-79.5168,66.81,Member,Health|Disaster Response,28,0.26,6,0.0
+VOL_1568,67,40.6119,-80.1888,28.63,Subscriber,Peace|Environment|Youth,26,0.19,9,0.8
+VOL_1569,35,40.291,-80.4686,55.03,Member,Youth,35,0.32,5,0.14
+VOL_1570,48,40.5587,-79.6765,37.8,Member,Environment|Peace|Youth,6,0.38,8,0.97
+VOL_1571,58,40.2285,-79.9337,24.54,Subscriber,Peace|Youth|Health,27,0.53,5,0.27
+VOL_1572,23,40.502,-79.7803,24.89,Subscriber,Youth,16,0.49,7,0.4
+VOL_1573,44,40.6478,-80.421,52.49,Subscriber,Environment|Peace|Disaster Response,9,0.83,1,0.49
+VOL_1574,59,40.3225,-79.792,26.16,Subscriber,Peace|Environment,9,0.49,2,0.79
+VOL_1575,61,40.2454,-79.762,33.82,Member,Peace|Environment,48,0.93,10,0.94
+VOL_1576,48,40.3339,-80.234,28.97,Subscriber,Peace,37,0.76,3,0.28
+VOL_1577,68,40.1421,-80.1058,35.31,Subscriber,Education,20,0.31,7,0.24
+VOL_1578,53,40.6002,-79.8588,23.35,Non-member,Disaster Response,38,0.38,8,0.54
+VOL_1579,68,40.216,-79.4986,60.56,Subscriber,Health,38,0.77,4,0.0
+VOL_1580,21,40.3633,-80.1644,20.58,Subscriber,Disaster Response,21,0.59,10,0.59
+VOL_1581,30,40.4673,-79.6118,42.74,Member,Health|Education|Disaster Response,10,0.39,3,0.0
+VOL_1582,67,40.5744,-80.0408,15.66,Subscriber,Environment,34,0.85,3,0.57
+VOL_1583,19,40.2027,-80.3061,43.4,Non-member,Education|Youth,8,0.56,1,0.05
+VOL_1584,48,40.8701,-80.2299,54.29,Non-member,Disaster Response|Environment,39,0.28,6,0.58
+VOL_1585,24,40.4511,-80.4201,47.1,Subscriber,Education|Disaster Response,4,0.93,2,0.13
+VOL_1586,26,40.6894,-80.0891,29.49,Non-member,Peace|Education|Disaster Response,45,0.8,4,0.25
+VOL_1587,54,40.9019,-79.814,55.04,Member,Education|Peace,28,0.93,1,0.1
+VOL_1588,53,40.427,-79.7702,25.09,Subscriber,Youth|Education|Disaster Response,50,0.58,3,0.35
+VOL_1589,46,40.3805,-80.1655,19.97,Subscriber,Education|Youth,5,0.27,10,0.54
+VOL_1590,74,40.9094,-79.6144,67.09,Subscriber,Health|Disaster Response,31,0.62,6,0.0
+VOL_1591,52,40.6732,-79.8649,29.63,Non-member,Health|Environment,49,0.62,3,0.68
+VOL_1592,72,40.7995,-80.2874,51.32,Member,Health|Education|Disaster Response,22,0.33,6,0.0
+VOL_1593,62,40.1564,-79.9334,32.3,Member,Health,15,0.46,5,0.12
+VOL_1594,70,40.0048,-80.3907,65.28,Subscriber,Environment|Youth|Peace,6,0.3,9,0.77
+VOL_1595,73,40.2929,-79.8329,24.41,Subscriber,Peace|Environment|Health,31,0.46,8,0.96
+VOL_1596,50,40.9083,-79.5982,68.14,Member,Peace|Environment|Health,8,0.41,10,0.86
+VOL_1597,54,40.2179,-80.3772,49.01,Non-member,Peace,28,0.71,10,0.41
+VOL_1598,42,40.6471,-80.2987,40.68,Subscriber,Peace,26,0.24,6,0.07
+VOL_1599,72,40.0587,-79.6953,53.95,Member,Disaster Response|Peace,7,0.47,10,0.35
+VOL_1600,45,40.5667,-79.6445,41.44,Subscriber,Education|Youth|Disaster Response,3,0.9,5,0.14
+VOL_1601,38,40.6245,-79.7736,32.02,Non-member,Peace|Disaster Response,2,0.31,3,0.29
+VOL_1602,37,40.9381,-79.5977,70.73,Non-member,Peace|Youth,36,0.3,8,0.5
+VOL_1603,53,40.251,-79.5893,49.79,Member,Education,9,0.71,5,0.14
+VOL_1604,58,40.1597,-80.4457,58.87,Non-member,Health,20,0.66,10,0.45
+VOL_1605,29,40.9072,-79.8657,53.77,Member,Youth|Disaster Response|Education,5,0.9,9,0.44
+VOL_1606,61,39.9998,-80.1175,50.76,Member,Education,42,0.13,6,0.0
+VOL_1607,66,40.0358,-79.826,48.73,Subscriber,Education,13,0.62,6,0.04
+VOL_1608,21,39.9913,-79.9908,49.87,Non-member,Youth,27,0.69,3,0.05
+VOL_1609,48,40.6537,-79.8043,31.81,Non-member,Education,29,0.61,3,0.23
+VOL_1610,32,40.0759,-80.2309,48.16,Subscriber,Health,3,0.3,4,0.19
+VOL_1611,47,40.4949,-80.0096,6.22,Member,Environment,25,0.41,1,0.77
+VOL_1612,27,40.2039,-80.0656,27.39,Non-member,Health,20,0.43,7,0.33
+VOL_1613,30,40.235,-80.0678,24.18,Non-member,Environment|Youth,15,0.3,5,0.7
+VOL_1614,30,40.5527,-79.8102,24.08,Member,Disaster Response|Environment,5,0.78,10,1.0
+VOL_1615,50,40.813,-80.3393,56.22,Member,Health|Education,35,0.66,1,0.03
+VOL_1616,24,40.8618,-80.0659,47.39,Non-member,Environment,29,0.84,1,0.41
+VOL_1617,41,40.6644,-79.7213,39.33,Subscriber,Environment|Youth|Health,3,0.7,9,0.9
+VOL_1618,46,40.3615,-80.4664,52.96,Non-member,Disaster Response,29,0.72,7,0.12
+VOL_1619,32,40.1043,-79.912,38.47,Subscriber,Youth,25,0.37,6,0.38
+VOL_1620,70,40.7472,-80.092,35.66,Subscriber,Peace,2,0.69,2,0.18
+VOL_1621,40,40.4511,-79.8092,20.76,Member,Youth,42,0.38,10,0.54
+VOL_1622,57,40.6568,-79.6957,41.06,Subscriber,Education|Health|Youth,3,0.33,6,0.1
+VOL_1623,71,40.0738,-80.3226,54.52,Subscriber,Disaster Response|Environment,2,0.86,1,0.42
+VOL_1624,69,39.9693,-79.6441,65.28,Non-member,Youth|Disaster Response,3,0.39,5,0.06
+VOL_1625,24,40.3542,-79.8138,22.37,Member,Peace|Education|Disaster Response,50,0.45,8,0.53
+VOL_1626,48,40.8505,-79.9016,46.69,Subscriber,Disaster Response|Health|Youth,45,0.62,3,0.06
+VOL_1627,53,39.9911,-80.2871,59.45,Member,Disaster Response,31,0.47,9,0.32
+VOL_1628,44,40.3902,-79.6655,37.1,Member,Disaster Response|Youth|Environment,7,0.86,4,0.78
+VOL_1629,66,40.3597,-79.7095,33.04,Non-member,Environment|Health,36,0.2,10,0.95
+VOL_1630,56,40.6059,-79.7869,29.58,Subscriber,Disaster Response|Education,44,0.51,8,0.51
+VOL_1631,66,40.3716,-80.0069,7.75,Subscriber,Youth|Health|Peace,32,0.11,6,0.29
+VOL_1632,65,40.1275,-79.5353,61.83,Subscriber,Youth,29,0.39,9,0.38
+VOL_1633,74,40.4663,-79.7381,28.75,Subscriber,Disaster Response|Environment,26,0.3,2,0.67
+VOL_1634,53,40.0883,-79.5663,61.67,Subscriber,Disaster Response,34,0.76,10,0.44
+VOL_1635,20,40.4139,-79.503,54.79,Subscriber,Disaster Response|Peace,7,0.31,2,0.14
+VOL_1636,40,40.5645,-79.9831,13.82,Subscriber,Peace,9,0.72,1,0.34
+VOL_1637,73,40.138,-79.885,35.77,Subscriber,Education,0,0.17,2,0.12
+VOL_1638,56,40.0829,-80.2433,48.27,Subscriber,Environment|Peace,19,0.8,9,0.84
+VOL_1639,68,40.3302,-79.5695,48.89,Member,Health|Disaster Response|Education,23,0.45,2,0.0
+VOL_1640,55,40.7688,-79.6715,51.22,Member,Environment|Youth|Health,44,0.53,5,0.56
+VOL_1641,36,40.6507,-80.3328,44.07,Subscriber,Peace|Health|Youth,44,0.51,3,0.16
+VOL_1642,48,40.2509,-80.3583,45.4,Subscriber,Environment|Youth,13,0.56,8,0.77
+VOL_1643,20,40.2698,-79.926,20.48,Member,Disaster Response|Environment,20,0.21,7,0.76
+VOL_1644,19,40.0518,-80.0444,43.49,Subscriber,Disaster Response|Environment,21,0.14,6,0.47
+VOL_1645,58,40.1858,-80.2447,39.53,Member,Education,35,0.66,6,0.32
+VOL_1646,22,40.1392,-80.3785,54.06,Non-member,Disaster Response,31,0.43,3,0.1
+VOL_1647,30,40.0356,-79.5401,67.68,Subscriber,Environment|Youth,4,0.66,2,0.54
+VOL_1648,57,40.5504,-80.3358,39.65,Member,Youth,8,0.65,4,0.34
+VOL_1649,47,40.5291,-80.2393,28.75,Member,Disaster Response|Education,18,0.11,1,0.33
+VOL_1650,53,39.9703,-79.818,55.81,Member,Education|Disaster Response,5,0.74,3,0.08
+VOL_1651,74,40.7321,-80.1949,39.18,Non-member,Peace|Education,43,0.33,9,0.49
+VOL_1652,52,40.1504,-80.0196,32.32,Member,Peace,8,0.6,1,0.23
+VOL_1653,34,40.6427,-80.2352,34.76,Member,Disaster Response|Environment,12,0.93,10,0.9
+VOL_1654,70,40.377,-80.0531,9.49,Subscriber,Disaster Response,2,0.91,9,0.48
+VOL_1655,44,40.0838,-79.8722,41.92,Non-member,Peace,39,0.48,1,0.08
+VOL_1656,66,40.5328,-79.8445,19.67,Subscriber,Environment,36,0.29,6,0.69
+VOL_1657,19,40.8004,-79.5387,64.58,Subscriber,Disaster Response|Peace|Youth,32,0.18,10,0.39
+VOL_1658,72,40.6633,-79.6751,43.35,Non-member,Disaster Response|Health|Peace,14,0.57,1,0.08
+VOL_1659,46,40.5626,-79.8558,20.63,Non-member,Youth|Education,10,0.35,3,0.21
+VOL_1660,21,40.6975,-79.8268,34.14,Non-member,Environment|Education,28,0.3,5,0.72
+VOL_1661,43,40.2816,-80.479,56.46,Member,Disaster Response|Peace|Environment,16,0.27,10,0.9
+VOL_1662,54,40.5795,-80.3893,46.32,Subscriber,Health|Youth|Disaster Response,1,0.64,8,0.33
+VOL_1663,46,40.6884,-79.6849,44.13,Subscriber,Environment|Education|Health,25,0.79,7,0.58
+VOL_1664,54,40.3984,-79.6356,40.26,Non-member,Youth|Education,15,0.38,8,0.49
+VOL_1665,39,40.5348,-79.8078,23.35,Non-member,Disaster Response|Education,37,0.54,1,0.32
+VOL_1666,67,40.7335,-80.0433,32.93,Non-member,Youth|Education|Peace,28,0.92,4,0.23
+VOL_1667,58,40.187,-79.8657,31.64,Subscriber,Disaster Response|Education,5,0.94,8,0.6
+VOL_1668,19,40.4869,-79.9417,7.92,Subscriber,Youth|Environment,6,0.16,7,0.76
+VOL_1669,71,40.8617,-80.3265,59.43,Non-member,Peace|Disaster Response,3,0.46,6,0.07
+VOL_1670,37,40.8316,-79.9305,44.01,Non-member,Disaster Response|Youth|Environment,17,0.14,4,0.41
+VOL_1671,40,40.6998,-79.8561,32.69,Subscriber,Environment|Health|Disaster Response,31,0.81,9,0.91
+VOL_1672,37,40.6686,-80.0432,25.85,Subscriber,Youth|Peace,3,0.33,5,0.23
+VOL_1673,33,40.6778,-79.5379,57.25,Member,Peace,47,0.37,2,0.19
+VOL_1674,68,40.5179,-80.1603,20.17,Subscriber,Youth|Environment,23,0.64,10,0.88
+VOL_1675,53,40.5116,-79.7863,24.56,Non-member,Peace,42,0.1,10,0.7
+VOL_1676,62,40.3867,-79.8319,19.16,Member,Peace|Youth,24,0.45,3,0.1
+VOL_1677,44,40.6837,-79.85,31.48,Subscriber,Youth,40,0.46,6,0.32
+VOL_1678,68,40.5395,-80.1111,16.85,Subscriber,Youth,27,0.61,5,0.19
+VOL_1679,69,40.434,-80.3615,40.59,Subscriber,Disaster Response,22,0.75,2,0.0
+VOL_1680,25,40.8501,-80.0947,46.75,Non-member,Environment|Peace,8,0.83,6,0.53
+VOL_1681,68,40.5227,-79.5716,47.97,Subscriber,Disaster Response|Environment,1,0.18,2,0.47
+VOL_1682,39,40.1388,-80.4836,63.66,Subscriber,Youth,33,0.11,3,0.11
+VOL_1683,32,40.6062,-80.4314,51.71,Subscriber,Disaster Response,42,0.64,2,0.01
+VOL_1684,66,40.8972,-79.9727,50.75,Subscriber,Environment|Disaster Response|Education,28,0.79,10,0.61
+VOL_1685,38,40.3486,-80.4144,47.56,Non-member,Peace|Disaster Response|Health,43,0.36,4,0.07
+VOL_1686,72,40.7115,-79.8957,32.06,Member,Education,35,0.67,5,0.13
+VOL_1687,35,40.5876,-80.0349,16.88,Subscriber,Environment|Health,5,0.52,5,0.79
+VOL_1688,35,40.3082,-79.9677,15.02,Subscriber,Youth|Environment,45,0.27,7,0.62
+VOL_1689,47,40.8826,-79.6063,65.4,Non-member,Environment|Youth|Health,29,0.8,8,0.72
+VOL_1690,40,40.7365,-79.7464,42.96,Member,Health|Disaster Response|Environment,11,0.58,10,0.82
+VOL_1691,59,40.719,-79.805,37.47,Subscriber,Youth|Health,18,0.86,1,0.3
+VOL_1692,44,40.0367,-79.6251,60.86,Member,Environment|Education,50,0.62,2,0.47
+VOL_1693,64,40.3593,-79.835,20.01,Subscriber,Environment,41,0.33,6,0.61
+VOL_1694,65,40.3929,-79.8319,18.96,Subscriber,Disaster Response,28,0.47,8,0.41
+VOL_1695,30,40.2406,-80.0531,23.09,Member,Health,27,0.92,6,0.28
+VOL_1696,23,40.3265,-80.4412,51.02,Subscriber,Youth,10,0.53,5,0.05
+VOL_1697,70,40.5001,-79.9574,7.87,Non-member,Peace|Education|Environment,22,0.58,10,0.99
+VOL_1698,26,40.3773,-80.4359,49.35,Non-member,Environment,13,0.69,4,0.42
+VOL_1699,63,40.2698,-79.6442,43.4,Non-member,Environment|Youth|Disaster Response,29,0.29,4,0.39
+VOL_1700,19,40.4132,-79.9197,8.99,Member,Disaster Response|Education|Peace,21,0.66,5,0.23
+VOL_1701,38,40.4223,-79.9659,3.9,Member,Peace,50,0.84,1,0.37
+VOL_1702,27,40.4616,-80.315,35.5,Member,Disaster Response|Youth,50,0.49,6,0.24
+VOL_1703,74,40.1156,-79.8809,38.26,Subscriber,Health|Peace,43,0.23,3,0.13
+VOL_1704,75,40.2678,-80.4276,51.61,Member,Education,8,0.91,6,0.03
+VOL_1705,41,40.914,-79.8165,56.19,Non-member,Environment,30,0.8,1,0.58
+VOL_1706,75,40.7709,-80.2832,48.59,Subscriber,Peace|Education|Environment,5,0.81,8,0.61
+VOL_1707,52,40.7403,-79.9879,33.28,Member,Peace|Health|Disaster Response,34,0.83,3,0.35
+VOL_1708,27,40.5436,-80.355,41.47,Subscriber,Environment|Disaster Response|Health,7,0.32,7,0.5
+VOL_1709,30,40.2516,-79.8045,29.86,Subscriber,Health|Disaster Response,40,0.61,7,0.22
+VOL_1710,53,40.2408,-80.4684,56.95,Subscriber,Peace|Environment|Youth,48,0.79,6,0.45
+VOL_1711,24,40.1361,-79.7799,41.44,Member,Health|Youth,43,0.21,1,0.11
+VOL_1712,29,39.9528,-80.2364,60.36,Subscriber,Health|Education,25,0.91,3,0.0
+VOL_1713,67,40.1944,-79.6645,45.83,Non-member,Education|Youth,11,0.73,7,0.0
+VOL_1714,44,40.5307,-79.7639,27.63,Member,Disaster Response,22,0.53,3,0.21
+VOL_1715,51,40.7635,-79.5919,57.41,Member,Health|Peace,1,0.44,2,0.05
+VOL_1716,64,40.3719,-79.5799,46.8,Subscriber,Education,7,0.64,2,0.04
+VOL_1717,29,40.7238,-79.6567,49.05,Member,Education|Youth|Health,41,0.5,5,0.14
+VOL_1718,49,40.7507,-79.539,61.29,Non-member,Environment|Health,31,0.63,7,0.5
+VOL_1719,51,40.7001,-79.7271,41.47,Subscriber,Youth|Peace,20,0.65,2,0.15
+VOL_1720,24,40.0448,-79.9228,44.68,Non-member,Health|Peace|Environment,47,0.72,8,0.86
+VOL_1721,72,40.7947,-80.1014,41.01,Non-member,Disaster Response|Youth|Education,34,0.7,1,0.08
+VOL_1722,20,40.2585,-80.4545,54.77,Non-member,Health|Peace|Youth,10,0.73,6,0.11
+VOL_1723,20,40.5194,-79.8117,22.24,Non-member,Environment|Health|Disaster Response,41,0.14,9,1.0
+VOL_1724,48,40.4881,-79.743,28.56,Member,Youth|Education,42,0.62,4,0.21
+VOL_1725,31,40.3769,-79.578,46.93,Subscriber,Disaster Response|Youth|Education,26,0.22,9,0.41
+VOL_1726,27,40.2241,-80.1033,26.83,Subscriber,Peace|Environment,12,0.36,2,0.71
+VOL_1727,31,40.0962,-80.3096,51.71,Member,Health,13,0.52,2,0.03
+VOL_1728,31,40.3281,-80.2261,28.45,Non-member,Education,4,0.78,4,0.24
+VOL_1729,73,40.7192,-80.2395,41.08,Member,Disaster Response|Education|Health,30,0.74,3,0.0
+VOL_1730,52,40.255,-80.1535,27.02,Non-member,Environment|Health,30,0.13,9,1.0
+VOL_1731,57,40.7442,-80.2236,42.12,Non-member,Peace,30,0.26,7,0.03
+VOL_1732,38,40.6725,-79.8195,32.34,Non-member,Disaster Response|Peace|Youth,20,0.72,4,0.39
+VOL_1733,64,40.5048,-79.5531,49.66,Non-member,Environment|Youth|Health,32,0.86,9,0.67
+VOL_1734,24,40.4452,-80.2974,33.47,Member,Education|Environment|Peace,30,0.81,8,1.0
+VOL_1735,44,40.2013,-80.2443,38.28,Subscriber,Education|Disaster Response|Youth,13,0.59,5,0.21
+VOL_1736,60,40.9383,-79.7328,62.49,Member,Disaster Response,18,0.63,1,0.0
+VOL_1737,54,40.1689,-79.8467,34.4,Member,Youth|Peace|Health,20,0.19,3,0.24
+VOL_1738,63,40.5224,-79.9463,10.62,Subscriber,Education|Health,27,0.7,3,0.12
+VOL_1739,42,40.0177,-80.0833,47.94,Member,Peace|Education|Environment,48,0.33,3,0.55
+VOL_1740,28,40.2577,-80.4836,57.82,Non-member,Health|Education|Environment,19,0.21,8,0.8
+VOL_1741,52,40.8473,-80.2077,50.9,Subscriber,Health|Disaster Response|Education,14,0.14,7,0.14
+VOL_1742,45,40.8886,-79.896,50.95,Subscriber,Environment,21,0.13,9,0.77
+VOL_1743,40,40.5874,-79.82,25.43,Member,Disaster Response|Environment,18,0.73,1,0.64
+VOL_1744,63,40.3161,-80.0,13.83,Subscriber,Environment|Education|Health,8,0.16,8,0.94
+VOL_1745,70,40.0115,-79.6887,58.58,Non-member,Youth|Education,9,0.3,5,0.06
+VOL_1746,45,40.744,-79.9615,33.89,Member,Youth|Environment,5,0.24,10,1.0
+VOL_1747,33,40.78,-79.7901,44.06,Non-member,Health|Peace|Environment,35,0.79,2,0.48
+VOL_1748,71,40.4983,-80.3277,37.39,Non-member,Disaster Response|Education|Peace,29,0.63,4,0.26
+VOL_1749,70,40.5567,-80.4905,56.39,Non-member,Peace,50,0.51,1,0.0
+VOL_1750,47,40.0726,-79.6844,53.51,Subscriber,Education|Health,6,0.54,10,0.37
+VOL_1751,69,40.5688,-79.8975,17.94,Member,Environment|Education,5,0.1,2,0.65
+VOL_1752,20,40.4643,-80.23,26.12,Subscriber,Health|Education|Peace,41,0.62,7,0.28
+VOL_1753,27,40.8713,-80.1488,50.74,Non-member,Health,8,0.94,8,0.38
+VOL_1754,18,40.681,-80.05,27.35,Non-member,Disaster Response,38,0.13,2,0.21
+VOL_1755,71,40.7452,-80.3081,48.42,Member,Disaster Response,21,0.59,8,0.21
+VOL_1756,49,40.0947,-79.672,52.61,Non-member,Environment,31,0.12,8,0.84
+VOL_1757,63,40.2613,-79.7325,35.36,Subscriber,Youth|Health|Peace,38,0.9,5,0.15
+VOL_1758,54,40.7404,-80.448,60.22,Member,Health,36,0.79,3,0.06
+VOL_1759,39,40.3024,-79.5434,52.51,Member,Peace,0,0.27,5,0.17
+VOL_1760,70,40.7051,-80.4587,59.17,Non-member,Peace|Environment,7,0.5,8,0.69
+VOL_1761,41,40.1646,-80.1695,36.19,Non-member,Environment|Disaster Response,33,0.53,4,0.8
+VOL_1762,36,40.1495,-79.6645,48.96,Subscriber,Health,49,0.19,5,0.08
+VOL_1763,24,40.563,-80.4225,49.26,Subscriber,Peace|Disaster Response|Health,39,0.55,8,0.49
+VOL_1764,30,40.3172,-80.217,28.11,Subscriber,Disaster Response|Education|Peace,40,0.9,4,0.27
+VOL_1765,23,40.2292,-79.5916,50.64,Subscriber,Peace,33,0.48,4,0.01
+VOL_1766,38,40.571,-80.1802,25.06,Member,Disaster Response|Health,41,0.31,1,0.35
+VOL_1767,63,40.2388,-80.205,32.26,Member,Peace|Youth,14,0.87,2,0.23
+VOL_1768,68,40.4947,-80.1806,21.37,Member,Environment|Youth,13,0.29,5,0.56
+VOL_1769,25,40.7215,-79.7834,39.1,Non-member,Youth|Education,20,0.4,4,0.27
+VOL_1770,35,40.1349,-80.018,34.02,Subscriber,Peace,21,0.59,5,0.32
+VOL_1771,22,40.5503,-79.6375,41.6,Subscriber,Health,22,0.75,2,0.04
+VOL_1772,52,40.6992,-80.2922,43.65,Member,Education|Health|Disaster Response,20,0.7,6,0.19
+VOL_1773,71,40.0313,-79.6816,57.28,Member,Health|Environment|Youth,10,0.92,9,0.69
+VOL_1774,66,40.1413,-80.0179,33.32,Member,Environment,37,0.65,6,0.58
+VOL_1775,23,40.6052,-79.5092,57.03,Subscriber,Disaster Response,29,0.44,8,0.38
+VOL_1776,73,40.0109,-79.6371,62.14,Non-member,Health|Education,20,0.57,1,0.0
+VOL_1777,40,40.0171,-80.0266,47.14,Member,Disaster Response,48,0.11,3,0.09
+VOL_1778,56,39.9515,-80.4822,76.56,Non-member,Disaster Response|Youth|Education,44,0.29,4,0.14
+VOL_1779,20,40.4754,-79.7272,30.08,Member,Health|Environment|Youth,30,0.35,3,0.66
+VOL_1780,48,40.3782,-79.9562,8.21,Member,Youth|Disaster Response,24,0.58,9,0.68
+VOL_1781,50,40.1108,-79.6387,53.97,Non-member,Education|Disaster Response|Health,8,0.85,8,0.43
+VOL_1782,32,40.1861,-79.6645,46.39,Member,Youth|Environment,13,0.65,5,0.52
+VOL_1783,38,40.2443,-80.2839,38.69,Non-member,Education|Youth|Health,2,0.35,2,0.34
+VOL_1784,66,40.279,-79.8528,23.96,Subscriber,Health|Youth,39,0.23,2,0.25
+VOL_1785,37,40.3235,-80.2795,34.06,Subscriber,Environment|Disaster Response|Health,17,0.25,2,0.74
+VOL_1786,29,40.7754,-80.4409,61.82,Non-member,Health|Youth,45,0.21,9,0.36
+VOL_1787,28,40.7417,-80.0937,35.14,Subscriber,Disaster Response|Education,47,0.76,8,0.55
+VOL_1788,48,39.9449,-80.3767,69.38,Member,Peace|Health|Education,19,0.63,9,0.32
+VOL_1789,36,40.0966,-79.7633,46.1,Subscriber,Environment|Youth,11,0.4,10,0.78
+VOL_1790,40,40.6715,-80.2281,36.35,Subscriber,Environment|Youth|Peace,31,0.84,2,0.66
+VOL_1791,26,40.4873,-80.3125,35.52,Non-member,Health|Youth,49,0.65,8,0.56
+VOL_1792,44,40.1611,-79.6107,52.82,Non-member,Youth|Disaster Response|Health,36,0.36,1,0.07
+VOL_1793,61,40.4602,-80.4778,53.54,Non-member,Education,47,0.5,4,0.02
+VOL_1794,19,40.109,-80.4616,63.45,Member,Peace|Youth,24,0.74,1,0.2
+VOL_1795,73,40.8916,-79.9135,50.89,Non-member,Environment,5,0.2,9,0.72
+VOL_1796,59,40.7915,-80.2914,50.92,Subscriber,Disaster Response|Peace,46,0.46,5,0.15
+VOL_1797,66,40.3262,-79.796,25.57,Non-member,Environment|Youth,8,0.89,3,0.62
+VOL_1798,70,40.7882,-79.8938,40.21,Non-member,Education|Health|Disaster Response,44,0.51,9,0.22
+VOL_1799,45,40.6548,-80.4583,56.57,Member,Education,17,0.21,5,0.15
+VOL_1800,27,40.8523,-80.3978,63.87,Subscriber,Environment|Education,14,0.67,3,0.57
+VOL_1801,68,39.952,-80.0517,54.59,Non-member,Youth|Disaster Response|Peace,0,0.78,7,0.0
+VOL_1802,70,40.0312,-80.2705,54.72,Non-member,Peace|Disaster Response,6,0.61,3,0.01
+VOL_1803,39,40.0556,-80.3358,57.01,Subscriber,Youth|Education,19,0.51,2,0.18
+VOL_1804,21,40.8399,-79.8078,48.99,Member,Environment|Health,30,0.57,8,0.74
+VOL_1805,19,40.0623,-80.1304,44.56,Non-member,Youth|Environment,18,0.89,10,0.8
+VOL_1806,49,40.0041,-80.4076,66.6,Member,Environment,7,0.73,6,0.57
+VOL_1807,47,40.7628,-79.7352,46.01,Subscriber,Disaster Response|Education|Health,5,0.31,8,0.41
+VOL_1808,58,39.9857,-79.931,51.01,Member,Peace|Health,7,0.9,5,0.15
+VOL_1809,54,40.7608,-80.263,46.28,Subscriber,Health,17,0.29,6,0.15
+VOL_1810,54,40.3464,-80.4604,52.61,Non-member,Environment|Education|Health,9,0.34,4,0.4
+VOL_1811,52,40.0692,-80.34,56.2,Subscriber,Health,24,0.33,3,0.06
+VOL_1812,73,39.9626,-80.0339,53.23,Member,Health|Disaster Response|Education,8,0.38,5,0.0
+VOL_1813,30,40.5345,-80.4161,47.8,Non-member,Environment|Health|Youth,15,0.59,9,0.83
+VOL_1814,54,40.5548,-80.3476,41.04,Subscriber,Youth|Health|Disaster Response,39,0.63,2,0.06
+VOL_1815,75,40.1051,-80.1104,39.35,Non-member,Peace|Health,34,0.62,10,0.5
+VOL_1816,25,40.3228,-79.6699,38.48,Non-member,Health|Disaster Response,9,0.82,6,0.23
+VOL_1817,32,40.1427,-79.5042,63.82,Member,Education,40,0.79,9,0.39
+VOL_1818,37,40.866,-80.2235,53.55,Non-member,Disaster Response|Youth|Peace,41,0.53,10,0.49
+VOL_1819,72,40.1886,-79.5375,58.06,Member,Peace,17,0.64,1,0.06
+VOL_1820,60,40.5821,-80.4533,53.15,Subscriber,Youth,28,0.39,10,0.32
+VOL_1821,75,40.321,-80.0423,14.24,Member,Youth,45,0.2,6,0.27
+VOL_1822,46,40.2705,-79.8404,25.58,Subscriber,Youth|Environment,8,0.3,7,0.69
+VOL_1823,60,40.6295,-79.9824,21.02,Non-member,Youth,48,0.91,10,0.56
+VOL_1824,66,40.4415,-79.8876,12.02,Subscriber,Environment,21,0.75,3,0.6
+VOL_1825,30,40.2775,-79.916,20.16,Non-member,Health|Youth,7,0.53,5,0.36
+VOL_1826,70,40.3139,-79.8188,24.17,Member,Health|Education,44,0.48,4,0.21
+VOL_1827,55,40.2621,-80.3683,45.84,Subscriber,Youth,20,0.69,10,0.48
+VOL_1828,61,40.6547,-80.3093,42.13,Non-member,Environment,35,0.43,5,0.35
+VOL_1829,75,40.7756,-79.6058,57.07,Non-member,Youth,18,0.46,6,0.0
+VOL_1830,43,40.026,-80.059,46.55,Non-member,Environment|Youth,10,0.65,8,0.78
+VOL_1831,49,40.6332,-79.7057,38.66,Non-member,Peace,24,0.84,6,0.36
+VOL_1832,22,40.1293,-80.3338,51.0,Subscriber,Youth|Peace,2,0.36,6,0.09
+VOL_1833,31,40.7468,-79.8065,39.96,Non-member,Disaster Response|Youth|Peace,29,0.89,9,0.61
+VOL_1834,39,40.2281,-79.6969,40.72,Subscriber,Peace,9,0.54,8,0.35
+VOL_1835,70,40.5259,-80.0773,13.09,Non-member,Environment|Youth|Disaster Response,5,0.91,9,0.81
+VOL_1836,24,40.1921,-79.5967,52.2,Non-member,Disaster Response,17,0.26,9,0.46
+VOL_1837,54,40.2499,-80.4188,51.49,Member,Health|Education,37,0.6,10,0.3
+VOL_1838,46,40.8565,-80.0566,46.66,Subscriber,Peace|Education|Health,18,0.13,9,0.38
+VOL_1839,61,40.6358,-80.4955,59.54,Member,Health|Youth|Environment,44,0.84,5,0.5
+VOL_1840,21,40.384,-79.7212,31.14,Non-member,Youth|Education|Health,50,0.93,4,0.2
+VOL_1841,48,40.2095,-80.4524,56.8,Subscriber,Environment|Disaster Response,46,0.73,6,0.51
+VOL_1842,29,40.1256,-80.1611,39.48,Subscriber,Environment|Peace,26,0.17,6,0.79
+VOL_1843,61,40.5188,-80.3654,41.92,Member,Peace,43,0.27,7,0.0
+VOL_1844,21,40.0517,-79.9593,43.36,Member,Education|Environment,24,0.31,8,0.78
+VOL_1845,71,40.5544,-79.809,24.29,Subscriber,Environment|Health|Education,25,0.55,1,0.66
+VOL_1846,33,40.5552,-80.4721,54.37,Non-member,Health|Youth,47,0.49,2,0.19
+VOL_1847,25,39.9758,-79.6395,65.01,Subscriber,Environment|Peace|Youth,9,0.19,10,0.79
+VOL_1848,26,40.5857,-80.1141,20.77,Member,Youth|Education,37,0.13,7,0.33
+VOL_1849,43,40.0716,-80.0542,41.47,Member,Health,42,0.64,2,0.1
+VOL_1850,75,40.1586,-79.7016,45.25,Non-member,Health,48,0.6,5,0.0
+VOL_1851,20,40.3457,-79.7829,25.88,Subscriber,Environment|Education|Health,16,0.14,7,0.63
+VOL_1852,73,40.4663,-80.4648,52.13,Non-member,Health|Education,24,0.61,6,0.0
+VOL_1853,31,40.58,-80.4657,54.4,Subscriber,Disaster Response|Health|Youth,20,0.46,6,0.11
+VOL_1854,21,40.3563,-80.3064,35.71,Member,Health|Peace|Environment,7,0.48,5,0.61
+VOL_1855,31,40.7951,-79.6131,57.91,Non-member,Education,43,0.51,5,0.11
+VOL_1856,36,40.2541,-79.8041,29.69,Subscriber,Education|Disaster Response|Health,43,0.36,6,0.35
+VOL_1857,29,40.4271,-79.6099,42.87,Subscriber,Peace|Education,31,0.52,7,0.01
+VOL_1858,61,40.3497,-80.2359,28.48,Non-member,Health|Youth|Peace,34,0.14,9,0.53
+VOL_1859,75,40.2708,-79.7847,30.08,Member,Environment|Disaster Response|Health,5,0.77,4,0.53
+VOL_1860,52,40.2139,-79.9695,25.34,Subscriber,Peace|Health|Environment,48,0.93,2,0.75
+VOL_1861,42,40.7294,-79.5084,62.89,Subscriber,Education,45,0.24,10,0.39
+VOL_1862,21,40.5633,-80.0468,14.75,Member,Peace|Health,29,0.9,6,0.22
+VOL_1863,34,40.2144,-79.9678,25.3,Non-member,Disaster Response,19,0.71,7,0.31
+VOL_1864,63,39.9807,-80.1418,53.56,Member,Environment|Peace|Disaster Response,7,0.86,7,0.46
+VOL_1865,33,40.6641,-80.0471,25.45,Subscriber,Youth|Education,26,0.47,9,0.7
+VOL_1866,50,40.4336,-79.7348,28.99,Subscriber,Youth,18,0.33,10,0.61
+VOL_1867,55,40.9325,-79.5811,71.42,Subscriber,Disaster Response,24,0.51,3,0.05
+VOL_1868,58,40.0641,-80.18,46.52,Member,Environment|Education,23,0.61,9,0.79
+VOL_1869,44,40.0959,-80.1422,41.56,Subscriber,Health|Youth,6,0.21,6,0.13
+VOL_1870,25,40.743,-80.0759,34.72,Non-member,Disaster Response|Health,0,0.89,3,0.37
+VOL_1871,75,40.3935,-79.985,5.37,Non-member,Peace,14,0.38,9,0.58
+VOL_1872,51,40.7239,-80.179,37.44,Non-member,Peace,14,0.42,3,0.32
+VOL_1873,43,40.4938,-79.856,16.62,Non-member,Youth|Disaster Response|Peace,42,0.19,2,0.3
+VOL_1874,22,40.6942,-80.4063,53.55,Non-member,Youth,44,0.39,6,0.06
+VOL_1875,21,40.2243,-79.4961,60.45,Subscriber,Youth,39,0.83,2,0.18
+VOL_1876,34,40.8574,-80.4938,72.07,Subscriber,Environment|Disaster Response|Education,34,0.61,7,0.47
+VOL_1877,32,40.8018,-79.8273,44.25,Non-member,Peace|Environment|Youth,21,0.36,2,0.56
+VOL_1878,53,40.4734,-80.4377,49.18,Subscriber,Disaster Response|Health|Education,37,0.21,1,0.16
+VOL_1879,28,40.9333,-80.3858,69.74,Subscriber,Education,5,0.65,1,0.16
+VOL_1880,33,40.0537,-80.4705,67.96,Non-member,Health|Peace,29,0.9,10,0.4
+VOL_1881,38,40.6639,-80.078,26.41,Subscriber,Peace,37,0.49,2,0.28
+VOL_1882,39,39.9669,-79.7184,60.94,Non-member,Disaster Response|Peace,10,0.81,2,0.01
+VOL_1883,31,40.4026,-79.8735,14.23,Subscriber,Peace|Environment|Disaster Response,2,0.81,8,0.98
+VOL_1884,74,40.3421,-79.5936,45.98,Subscriber,Disaster Response|Environment,10,0.76,4,0.49
+VOL_1885,18,40.0926,-80.0367,38.89,Member,Youth|Education,0,0.67,4,0.34
+VOL_1886,64,40.0633,-79.7242,51.6,Member,Education,17,0.32,1,0.0
+VOL_1887,48,40.4902,-80.3654,41.38,Subscriber,Education|Disaster Response|Youth,49,0.19,2,0.2
+VOL_1888,54,40.2935,-79.6866,38.01,Member,Environment,12,0.9,1,0.68
+VOL_1889,33,40.2994,-80.2989,37.1,Subscriber,Health,3,0.15,6,0.31
+VOL_1890,42,40.8684,-80.3319,60.38,Non-member,Environment|Disaster Response|Health,3,0.52,9,0.84
+VOL_1891,36,40.585,-79.6633,40.24,Non-member,Health|Environment,17,0.21,6,0.58
+VOL_1892,45,40.2459,-80.3559,45.43,Subscriber,Environment,21,0.7,7,0.49
+VOL_1893,42,40.0612,-79.8259,46.15,Member,Health|Youth,32,0.45,5,0.13
+VOL_1894,51,40.2399,-79.7225,37.65,Subscriber,Health|Youth,7,0.73,6,0.3
+VOL_1895,40,40.1593,-79.9827,31.26,Non-member,Education,33,0.27,10,0.57
+VOL_1896,35,40.2803,-80.3258,40.71,Non-member,Disaster Response|Peace,44,0.15,7,0.17
+VOL_1897,18,40.5596,-79.9868,13.25,Subscriber,Youth|Environment,21,0.21,6,0.75
+VOL_1898,70,39.9773,-79.5328,72.72,Non-member,Youth|Peace|Health,7,0.41,9,0.25
+VOL_1899,51,40.6024,-80.1904,28.08,Member,Disaster Response|Youth|Education,10,0.92,4,0.26
+VOL_1900,32,40.5596,-80.1112,18.39,Non-member,Youth,11,0.39,6,0.25
+VOL_1901,28,40.0443,-80.1968,49.32,Non-member,Environment|Education|Youth,17,0.64,1,0.45
+VOL_1902,42,40.6625,-80.4903,60.16,Member,Youth|Environment|Disaster Response,10,0.33,9,0.72
+VOL_1903,49,40.152,-79.5291,60.92,Subscriber,Disaster Response,33,0.51,5,0.18
+VOL_1904,54,40.2665,-79.5553,52.59,Subscriber,Peace|Environment,37,0.86,9,0.73
+VOL_1905,30,40.3912,-79.6483,38.97,Member,Health|Youth,10,0.22,5,0.24
+VOL_1906,36,40.6479,-80.4301,53.41,Non-member,Education|Peace,20,0.39,9,0.41
+VOL_1907,36,40.3714,-80.2117,25.15,Member,Peace,40,0.14,2,0.29
+VOL_1908,56,40.9213,-79.653,65.54,Subscriber,Education,23,0.68,7,0.0
+VOL_1909,61,40.0727,-79.5901,60.8,Member,Youth|Environment|Peace,9,0.82,8,0.77
+VOL_1910,58,40.21,-80.0217,25.76,Non-member,Education,26,0.37,2,0.22
+VOL_1911,43,40.388,-80.3151,35.9,Member,Disaster Response|Education|Health,18,0.31,6,0.37
+VOL_1912,38,39.954,-80.2341,60.14,Non-member,Peace|Education,15,0.19,4,0.02
+VOL_1913,34,40.031,-80.0487,45.84,Subscriber,Environment|Youth,0,0.59,4,0.5
+VOL_1914,74,40.1061,-80.3151,51.32,Non-member,Education,14,0.89,10,0.22
+VOL_1915,52,40.1389,-79.6222,53.32,Non-member,Education,48,0.28,3,0.17
+VOL_1916,65,40.6656,-80.0402,25.46,Subscriber,Peace,30,0.84,1,0.14
+VOL_1917,61,40.8237,-79.5177,68.02,Subscriber,Disaster Response|Environment,14,0.74,10,0.71
+VOL_1918,18,40.5773,-80.4538,53.05,Subscriber,Health|Education,24,0.25,2,0.13
+VOL_1919,40,40.1224,-80.0031,35.32,Non-member,Disaster Response|Education|Environment,3,0.12,1,0.61
+VOL_1920,28,40.7651,-79.6855,49.85,Subscriber,Health|Youth,44,0.75,4,0.09
+VOL_1921,49,40.6987,-79.7196,41.97,Subscriber,Education,40,0.77,5,0.11
+VOL_1922,27,40.0823,-79.7129,50.68,Subscriber,Environment,3,0.18,9,0.71
+VOL_1923,64,40.4027,-79.7926,22.96,Member,Peace|Health|Youth,26,0.37,7,0.14
+VOL_1924,71,40.9001,-80.0616,51.52,Member,Youth|Disaster Response|Peace,38,0.66,3,0.09
+VOL_1925,65,40.002,-79.656,61.59,Non-member,Youth|Disaster Response,29,0.65,1,0.0
+VOL_1926,63,40.6311,-79.9054,23.4,Member,Environment|Health|Education,21,0.75,9,0.9
+VOL_1927,68,40.7291,-79.5849,55.74,Member,Education|Health|Youth,33,0.41,5,0.08
+VOL_1928,65,40.8357,-80.4828,69.6,Member,Youth,39,0.93,1,0.0
+VOL_1929,59,40.62,-79.8824,23.57,Non-member,Health|Disaster Response|Peace,30,0.84,8,0.53
+VOL_1930,60,40.1463,-79.7335,43.76,Subscriber,Environment,8,0.69,8,0.67
+VOL_1931,73,40.236,-79.8163,30.22,Subscriber,Education|Environment|Disaster Response,34,0.61,4,0.5
+VOL_1932,29,40.4584,-80.0631,7.72,Non-member,Peace,28,0.5,10,0.54
+VOL_1933,52,40.6138,-80.2259,31.96,Subscriber,Health|Youth|Peace,23,0.65,5,0.21
+VOL_1934,36,40.9395,-80.2067,60.12,Non-member,Peace,11,0.68,8,0.49
+VOL_1935,64,40.8068,-80.2036,46.73,Subscriber,Peace,0,0.18,7,0.0
+VOL_1936,70,40.2387,-80.3391,44.2,Member,Peace|Youth,16,0.67,10,0.21
+VOL_1937,50,40.3381,-79.8851,16.75,Subscriber,Peace|Youth|Education,27,0.51,9,0.56
+VOL_1938,25,40.1202,-79.5137,64.26,Member,Peace|Environment,33,0.69,10,0.72
+VOL_1939,50,40.7293,-80.1528,36.47,Non-member,Disaster Response,31,0.61,1,0.33
+VOL_1940,68,40.9264,-80.4675,75.16,Subscriber,Disaster Response,4,0.17,7,0.06
+VOL_1941,43,40.2612,-80.2724,36.59,Member,Youth|Peace,18,0.61,8,0.67
+VOL_1942,68,40.319,-79.7404,31.41,Member,Disaster Response|Health,2,0.13,1,0.13
+VOL_1943,30,40.1724,-79.5022,62.36,Subscriber,Education,33,0.21,4,0.02
+VOL_1944,39,40.17,-80.135,33.77,Subscriber,Education,9,0.39,3,0.37
+VOL_1945,22,40.0197,-80.4148,65.92,Non-member,Education|Disaster Response,35,0.64,9,0.34
+VOL_1946,40,40.3509,-79.532,52.45,Member,Disaster Response|Environment|Health,5,0.47,7,0.43
+VOL_1947,25,40.374,-80.4723,53.39,Subscriber,Education|Peace,41,0.88,10,0.46
+VOL_1948,40,40.8576,-79.5453,68.15,Subscriber,Health,15,0.86,2,0.04
+VOL_1949,64,40.689,-79.8113,34.35,Member,Disaster Response,31,0.24,1,0.21
+VOL_1950,20,40.4661,-79.8308,18.54,Subscriber,Youth|Health,8,0.88,10,0.68
+VOL_1951,34,39.9505,-80.0441,54.67,Member,Environment|Youth|Disaster Response,32,0.47,3,0.5
+VOL_1952,45,40.8126,-80.38,59.35,Member,Health|Youth|Disaster Response,10,0.6,6,0.09
+VOL_1953,68,40.3394,-79.6929,35.46,Member,Health|Disaster Response|Education,9,0.3,6,0.28
+VOL_1954,50,40.3999,-79.5922,45.04,Member,Youth|Education,40,0.33,9,0.49
+VOL_1955,69,40.1876,-79.5455,57.34,Subscriber,Health|Peace|Disaster Response,19,0.56,8,0.4
+VOL_1956,50,40.2411,-79.9623,22.45,Subscriber,Disaster Response|Education,32,0.43,1,0.38
+VOL_1957,19,40.2935,-79.5273,54.52,Subscriber,Peace|Environment,6,0.83,6,0.43
+VOL_1958,23,40.639,-79.7212,37.62,Non-member,Environment,28,0.31,10,1.0
+VOL_1959,45,40.0568,-80.0196,42.68,Non-member,Education|Youth,8,0.7,5,0.12
+VOL_1960,18,40.4603,-79.5025,54.81,Member,Education,39,0.38,8,0.4
+VOL_1961,60,40.8715,-79.8174,51.77,Subscriber,Health,26,0.49,8,0.3
+VOL_1962,51,40.8992,-80.3582,64.88,Subscriber,Environment|Education,37,0.55,10,0.82
+VOL_1963,66,40.1326,-80.2469,44.11,Non-member,Disaster Response,3,0.43,3,0.09
+VOL_1964,25,40.3272,-80.4567,52.67,Subscriber,Environment,50,0.75,3,0.6
+VOL_1965,64,40.4637,-79.9558,5.14,Subscriber,Peace|Youth,26,0.48,5,0.22
+VOL_1966,24,40.8169,-80.0924,43.12,Member,Health,12,0.73,7,0.14
+VOL_1967,41,40.0582,-79.5827,62.49,Member,Youth|Education|Health,1,0.91,8,0.49
+VOL_1968,50,40.7497,-80.0825,35.63,Non-member,Environment|Disaster Response|Peace,18,0.91,6,0.78
+VOL_1969,21,40.0068,-80.3004,58.83,Non-member,Peace|Education|Health,35,0.93,6,0.03
+VOL_1970,70,40.2547,-79.6265,45.9,Subscriber,Youth|Health,19,0.67,7,0.06
+VOL_1971,44,40.2327,-80.2041,32.66,Member,Youth|Environment|Education,6,0.28,2,0.75
+VOL_1972,23,40.7207,-79.6495,49.45,Non-member,Environment|Education,34,0.61,2,0.45
+VOL_1973,68,39.961,-80.4192,71.01,Subscriber,Peace|Education|Health,2,0.3,10,0.36
+VOL_1974,32,40.1797,-80.3837,51.88,Member,Environment,36,0.47,10,0.7
+VOL_1975,27,40.4883,-79.5058,54.66,Subscriber,Peace,41,0.43,9,0.32
+VOL_1976,62,40.2873,-79.8189,25.99,Member,Disaster Response,10,0.48,8,0.51
+VOL_1977,45,40.9094,-80.3975,68.52,Member,Peace,17,0.59,9,0.41
+VOL_1978,65,40.7055,-80.4383,57.24,Member,Education,49,0.63,5,0.0
+VOL_1979,72,40.5912,-79.7478,32.21,Member,Disaster Response,5,0.83,8,0.48
+VOL_1980,74,40.8245,-80.4344,64.69,Non-member,Peace|Health,48,0.67,2,0.0
+VOL_1981,68,40.3933,-80.3802,42.98,Subscriber,Environment,39,0.56,3,0.44
+VOL_1982,26,40.0485,-80.3829,61.15,Non-member,Education|Peace,41,0.63,3,0.02
+VOL_1983,44,39.9604,-79.6793,63.84,Non-member,Peace|Youth|Environment,13,0.75,6,0.48
+VOL_1984,72,40.8501,-80.1668,49.25,Non-member,Education|Disaster Response|Environment,21,0.15,2,0.5
+VOL_1985,62,40.7252,-80.1811,37.69,Subscriber,Education,1,0.89,6,0.1
+VOL_1986,65,39.943,-80.2515,62.1,Non-member,Health|Peace,7,0.49,9,0.22
+VOL_1987,30,40.2946,-79.9366,17.49,Subscriber,Peace,18,0.36,10,0.57
+VOL_1988,38,40.7639,-79.5743,58.98,Non-member,Environment|Disaster Response,24,0.79,10,0.8
+VOL_1989,26,40.1446,-80.1947,39.58,Non-member,Disaster Response|Peace,31,0.56,7,0.26
+VOL_1990,45,40.0872,-80.3779,57.77,Member,Education|Health,26,0.71,9,0.37
+VOL_1991,36,39.9989,-79.6406,62.92,Non-member,Environment,43,0.9,1,0.4
+VOL_1992,27,40.2869,-80.1601,24.97,Subscriber,Education|Environment|Health,41,0.34,6,0.65
+VOL_1993,19,40.2519,-79.7097,38.05,Non-member,Youth|Education|Health,1,0.6,10,0.64
+VOL_1994,64,40.6263,-80.3905,48.41,Subscriber,Health|Environment,44,0.91,4,0.37
+VOL_1995,74,40.5265,-80.0578,11.75,Subscriber,Education|Health|Youth,33,0.77,3,0.26
+VOL_1996,73,40.7288,-79.6634,48.84,Member,Youth,19,0.33,5,0.0
+VOL_1997,50,40.5523,-80.2158,27.38,Subscriber,Youth,9,0.55,7,0.27
+VOL_1998,39,40.5745,-80.0999,18.82,Non-member,Peace|Health,14,0.77,3,0.3
+VOL_1999,52,40.5814,-80.2746,34.66,Subscriber,Peace|Environment,33,0.34,1,0.65
