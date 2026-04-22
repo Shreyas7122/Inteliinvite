@@ -3,119 +3,186 @@ import json
 import re
 from xgboost import XGBRegressor
 from sklearn.preprocessing import LabelEncoder
+from typing import Dict, Any, List
 
-# ---------------------------------------------------------
-# 2. AI REASONING LAYER
-# ---------------------------------------------------------
+# Ollama integration with graceful fallback
+try:
+    import ollama
+    OLLAMA_AVAILABLE = True
+    print("✅ Ollama library loaded successfully.")
+except ImportError:
+    print("⚠️ Ollama not installed. Run: pip install ollama")
+    OLLAMA_AVAILABLE = False
+
 
 class AIReasoningLayer:
-    def __init__(self, dataset_path):
+    def __init__(self, dataset_path: str):
         self.dataset_path = dataset_path
-        # Event dictionary to map natural language concepts to structured interests/categories
+        
+        # Semantic Event Dictionary (core of your semantic engineering layer)
         self.event_dictionary = {
             "cleanliness drive": ["Environment"],
+            "cleanup": ["Environment"],
             "medical camp": ["Health"],
             "teaching": ["Education", "Youth"],
             "disaster relief": ["Disaster Response"],
             "peace march": ["Peace", "Youth"]
         }
-    
-    def process_user_input(self, text_input):
-        """
-        Main pipeline for processing user input into structured parameters.
-        Includes:
-        - LLM Intent & Entity Extraction (simulated here for demonstration)
-        - Event Dictionary Lookup
-        - Constraint Inference
-        """
-        print(f"Processing Input: '{text_input}'")
         
-        # 2a. LLM Intent & Entity Extraction
+        # LLM Configuration
+        self.llm_model = "llama3.2"   # Recommended: llama3.2, gemma2:9b, qwen2.5:7b
+        self.use_ollama = OLLAMA_AVAILABLE
+
+    def process_user_input(self, text_input: str) -> Dict[str, Any]:
+        """
+        Main Semantic Engineering Pipeline:
+        1. LLM Intent & Entity Extraction
+        2. Event Dictionary Semantic Lookup
+        3. Constraint Inference
+        """
+        print(f"🔍 Processing Input: '{text_input}'")
+        
+        # 1. LLM-based extraction (with fallback)
         entities = self._llm_extract_entities(text_input)
         
-        # 2b. Event Dictionary Lookup
-        inferred_interests = []
-        for keyword, interests in self.event_dictionary.items():
-            if keyword in text_input.lower():
-                inferred_interests.extend(interests)
+        # 2. Semantic lookup from event dictionary
+        inferred_interests = self._lookup_event_interests(text_input, entities)
         
-        if not inferred_interests and "event_type" in entities:
-             # Fallback lookup
-             for keyword, interests in self.event_dictionary.items():
-                if keyword in entities["event_type"].lower():
-                    inferred_interests.extend(interests)
-
-        # 2c. Constraint Inference
+        # 3. Build structured constraints for retrieval & ranking
         constraints = self._infer_constraints(entities, inferred_interests)
         
         return constraints
 
-    def _llm_extract_entities(self, text):
-        """
-        Simulates an LLM call parsing the request into entities.
-        In a real scenario, this would use google-generativeai, OpenAI, etc.
-        """
-        # Mocking an LLM response based on expected inputs
+    def _llm_extract_entities(self, text: str) -> Dict[str, Any]:
+        """Real LLM extraction using Ollama. Falls back to heuristic if Ollama fails."""
+        if not self.use_ollama:
+            return self._heuristic_fallback(text)
+
+        try:
+            system_prompt = """
+You are an expert Semantic Engineer for a volunteer matching system.
+Extract structured information from the user request.
+
+Return ONLY a valid JSON object with these exact keys:
+- event_type: string (e.g. "cleanliness drive", "medical camp", "teaching")
+- location: string or null
+- other_entities: list of strings
+
+Be precise, consistent, and do not add extra text.
+"""
+
+            response = ollama.chat(
+                model=self.llm_model,
+                messages=[
+                    {"role": "system", "content": system_prompt.strip()},
+                    {"role": "user", "content": f"User request: {text}"}
+                ],
+                format="json"
+            )
+            
+            entities = json.loads(response['message']['content'])
+            print(f"✅ Ollama extracted entities: {entities}")
+            return entities
+
+        except Exception as e:
+            print(f"⚠️ Ollama error: {e}. Falling back to heuristic extraction.")
+            return self._heuristic_fallback(text)
+
+    def _heuristic_fallback(self, text: str) -> Dict[str, Any]:
+        """Robust heuristic fallback when Ollama is unavailable or fails."""
         text_lower = text.lower()
-        entities = {}
-        
-        # Simple heuristic extraction for demonstration
-        if "cleanliness drive" in text_lower:
-            entities["event_type"] = "cleanliness drive"
-        elif "medical" in text_lower:
-             entities["event_type"] = "medical camp"
-        
+        entities: Dict[str, Any] = {
+            "event_type": None,
+            "location": None,
+            "other_entities": []
+        }
+
+        # Event type detection
+        for keyword in self.event_dictionary.keys():
+            if keyword in text_lower:
+                entities["event_type"] = keyword
+                break
+
+        # Location detection (expand as needed)
         if "pittsburgh" in text_lower:
             entities["location"] = "Pittsburgh"
-            
+
         return entities
 
-    def _infer_constraints(self, entities, inferred_interests):
-        """
-        Combines extracted entities and dictionary lookups into solid constraints
-        for the Retrieval stage.
-        """
+    def _lookup_event_interests(self, text: str, entities: Dict) -> List[str]:
+        """Semantic lookup using event dictionary (OR logic across keywords)."""
+        text_lower = text.lower()
+        inferred: List[str] = []
+
+        for keyword, interests in self.event_dictionary.items():
+            if keyword in text_lower:
+                inferred.extend(interests)
+
+        # Fallback using LLM-extracted event_type
+        if not inferred and entities.get("event_type"):
+            event_type = str(entities["event_type"]).lower()
+            for keyword, interests in self.event_dictionary.items():
+                if keyword in event_type:
+                    inferred.extend(interests)
+
+        return list(dict.fromkeys(inferred))  # Remove duplicates while preserving order
+
+    def _infer_constraints(self, entities: Dict, inferred_interests: List[str]) -> Dict[str, Any]:
+        """Infer final structured constraints for semantic retrieval + ML ranking."""
         constraints = {
-            "max_distance_km": 50, # Default assumption: 50km
-            "required_interests": inferred_interests,
+            "max_distance_km": 50,
+            "required_interests": inferred_interests[:],
+            "excluded_interests": [],
             "max_age": None,
-            "min_physical_score": 5 # Default
+            "min_age": None,
+            "min_physical_score": 5,
+            "location": entities.get("location")
         }
-        
-        # Infering extra constraints
-        if "cleanliness drive" in entities.get("event_type", ""):
-            # Cleanliness drives require some physical activity, maybe limit age or require high physical score
-            constraints["max_age"] = 60
-            constraints["min_physical_score"] = 6
-            constraints["max_distance_km"] = 40 # People might not travel too far for it
-        
-        print("Inferred Constraints:", json.dumps(constraints, indent=2))
+
+        # Domain-specific rules (Cleanliness drive example)
+        event_type = str(entities.get("event_type", "")).lower()
+        if "cleanliness" in event_type or "cleanup" in event_type:
+            constraints.update({
+                "max_age": 60,
+                "min_physical_score": 6,
+                "max_distance_km": 40
+            })
+
+        print("✅ Inferred Constraints:")
+        print(json.dumps(constraints, indent=2))
         return constraints
-        
-    def apply_feedback(self, constraints, feedback_text):
-        """
-        4. FEEDBACK LOOP
-        Takes user feedback, parses intent, and updates the structured semantic constraints natively.
-        """
-        print(f"\n[FEEDBACK] Evaluating Constraint Rule: '{feedback_text}'")
-        text_lower = feedback_text.lower()
-        
-        # Check for max age constraint using regex
-        age_match = re.search(r'max(?:imum)?\s*age\s*(?:should\s*be|is|=)?\s*(\d+)', text_lower)
-        if age_match:
-            constraints["max_age"] = int(age_match.group(1))
-            print(f">> Learned Semantic Constraint: Updated max_age to {constraints['max_age']}.")
-            
-        is_negation = any(neg in text_lower for neg in ["do not", "don't", "exclude", "no ", "without"])
-        
+
+    def apply_feedback(self, constraints: Dict, feedback_text: str) -> Dict:
+        """Dynamic Feedback Loop - Updates semantic constraints from natural language feedback."""
+        print(f"\n🔄 [FEEDBACK] Processing: '{feedback_text}'")
+        text_lower = feedback_text.lower().strip()
+
+        # Max age update
+        max_age_pattern = r'(?:(?:max|maximum|less\s*than|under|below|<)[^0-9]*age|age[^0-9]*(?:max|maximum|less|under|below|<))[^0-9]*(\d+)|(?:(?:max|maximum|less\s*than|under|below|<)[^0-9]*(\d+)[^0-9]*age)'
+        max_age_match = re.search(max_age_pattern, text_lower)
+        if max_age_match:
+            constraints["max_age"] = int(max_age_match.group(1) or max_age_match.group(2))
+            print(f"   → Updated max_age → {constraints['max_age']}")
+
+        # Min age update
+        min_age_pattern = r'(?:(?:min|minimum|more\s*than|greater\s*than|above|over|>)[^0-9]*age|age[^0-9]*(?:min|minimum|more|greater|above|over|>))[^0-9]*(\d+)|(?:(?:min|minimum|more\s*than|greater\s*than|above|over|>)[^0-9]*(\d+)[^0-9]*age)'
+        min_age_match = re.search(min_age_pattern, text_lower)
+        if min_age_match:
+            constraints["min_age"] = int(min_age_match.group(1) or min_age_match.group(2))
+            print(f"   → Updated min_age → {constraints['min_age']}")
+
+        # Interest management (support negation)
+        is_negation = any(word in text_lower for word in ["not", "don't", "exclude", "no ", "without", "avoid"])
+
         categories = {
             "youth": "Youth",
-            "health": "Health", 
+            "health": "Health",
             "peace": "Peace",
             "environment": "Environment",
-            "disaster": "Disaster Response"
+            "disaster": "Disaster Response",
+            "education": "Education"
         }
-        
+
         for kw, category in categories.items():
             if kw in text_lower:
                 if is_negation:
@@ -123,19 +190,19 @@ class AIReasoningLayer:
                         constraints["excluded_interests"] = []
                     if category not in constraints["excluded_interests"]:
                         constraints["excluded_interests"].append(category)
-                    print(f">> Learned Semantic Constraint: Excluded '{category}' interest.")
-                    
-                    if category in constraints.get("required_interests", []):
-                        constraints["required_interests"].remove(category)
+                    constraints["required_interests"] = [i for i in constraints.get("required_interests", []) if i != category]
+                    print(f"   → Excluded interest: {category}")
                 else:
                     if "required_interests" not in constraints:
                         constraints["required_interests"] = []
                     if category not in constraints["required_interests"]:
                         constraints["required_interests"].append(category)
-                    print(f">> Learned Semantic Constraint: Required '{category}' interest added.")
+                    print(f"   → Required interest added: {category}")
 
-        print("Updated Constraints:", json.dumps(constraints, indent=2))
+        print("✅ Updated Constraints:")
+        print(json.dumps(constraints, indent=2))
         return constraints
+
 
 # ---------------------------------------------------------
 # 3. RETRIEVAL & RANKING STAGE
@@ -176,6 +243,10 @@ class VolunteerMatcher:
         # Filter by max Age
         if constraints.get("max_age"):
             filtered_df = filtered_df[filtered_df['Age'] <= constraints['max_age']]
+            
+        # Filter by min Age
+        if constraints.get("min_age"):
+            filtered_df = filtered_df[filtered_df['Age'] >= constraints['min_age']]
             
         # Filter by physical score
         if constraints.get("min_physical_score"):
@@ -218,42 +289,15 @@ class VolunteerMatcher:
         ranked_df = candidates_df.sort_values(by="ML_Score", ascending=False)
         return ranked_df
 
-def main():
-    dataset_csv = "volunteers_dataset.csv"
-    
-    # 1. User Input
-    user_request_1 = "I want to invite people for a cleanliness drive in Pittsburgh."
-    
-    # 2. AI Reasoning
-    reasoning = AIReasoningLayer(dataset_csv)
-    structured_params = reasoning.process_user_input(user_request_1)
-    
-    # 3. Retrieval & Ranking
-    matcher = VolunteerMatcher(dataset_csv)
-    
-    candidates = matcher.semantic_retrieval(structured_params)
-    print(f"\nCandidates after Semantic Retrieval: {len(candidates)}")
-    
-    ranked_candidates = matcher.predictive_ranking(candidates)
-    
-    top_n = 5
-    print(f"\n--- TOP {top_n} RECOMMENDED VOLUNTEERS ---")
-    print(ranked_candidates[['Volunteer_ID', 'Age', 'Distance_KM', 'Interests', 'ML_Score']].head(top_n))
-
-    # 4. Feedback Loop (Model Interaction Simulation)
-    # Simulating a user clicking "❌ Refine & Retrain" and typing "Must include Youth interest"
-    feedback_input = "Must include Youth interest"
-    
-    # Update AI parameters natively (Compassion for semantic update arrow)
-    updated_params = reasoning.apply_feedback(structured_params, feedback_input)
-    
-    # Step 3 Loop: Re-run with the updated constraints
-    refined_candidates = matcher.semantic_retrieval(updated_params)
-    refined_ranked = matcher.predictive_ranking(refined_candidates)
-    
-    print(f"\nCandidates after Applying Feedback: {len(refined_candidates)}")
-    print(f"\n--- TOP {top_n} RECOMMENDATIONS (REFINED) ---")
-    print(refined_ranked[['Volunteer_ID', 'Age', 'Distance_KM', 'Interests', 'ML_Score']].head(top_n))
-
+# For testing
 if __name__ == "__main__":
-    main()
+    # Test the reasoning layer
+    reasoning = AIReasoningLayer("volunteers_dataset.csv")
+    
+    test_input = "I want to invite people for a cleanliness drive in Pittsburgh."
+    params = reasoning.process_user_input(test_input)
+    
+    feedback = "Must include Youth interest and max age should be 55"
+    updated = reasoning.apply_feedback(params, feedback)
+    
+    print("\n✅ Reasoning Layer test completed successfully!")
